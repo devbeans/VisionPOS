@@ -113,4 +113,49 @@
 		echo '<p><label for="email">Email Address</label><br/>'; 
 		$data = array(
               'name'        => 'email',
-              'id'          => 'em
+              'id'          => 'email',
+              'value'       => $client['email'],
+              'maxlength'   => '50',
+              'size'        => '50',
+              'style'       => 'width:20%',
+            );
+		echo form_input($data) .'</p>';
+		
+		echo '<p><label for="type">Exam Type</label><br/>'; 
+		$options = array(
+		                  'glasses'  => 'Glasses',
+		                  'Contacts'    => 'Contact Lens',
+		                  'Both'   => 'Glasses & Contact Lens',
+		                  'ExamOnly' => 'Exam Only',
+		                );	
+		echo form_dropdown('type', $options, $client['type']);
+
+		echo '<p><label for="examdate">examdate</label><br/>'; 
+		$data = array(
+              'name'        => 'examdate',
+              'id'          => 'examdate',
+              'value'       => $client['examdate'],
+              'maxlength'   => '50',
+              'size'        => '50',
+              'style'       => 'width:20%',
+            );
+		echo form_input('examdate', $options, $client['examdate']);
+		
+		echo '<p><label for="recalldate">Last Recall</label><br/>'; 
+		$data = array(
+              'name'        => 'recalldate',
+              'id'          => 'recalldate',
+              'value'       => $client['recalldate'],
+              'maxlength'   => '50',
+              'size'        => '50',
+              'style'       => 'width:20%',
+            );
+		echo form_input('recalldate', $options, $client['recalldate']);		
+		echo '<p></p>';
+		
+		echo form_submit('submit',$button); 
+		echo form_close();  
+	}
+?>
+
+</div>

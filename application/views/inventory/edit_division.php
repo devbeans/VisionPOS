@@ -1,6 +1,6 @@
-<div id="home">
-<?php 
-	echo $page;
-	
-?>
+<div id="home">
+<?php 
+	echo $page;
+	
+?>
 </div>

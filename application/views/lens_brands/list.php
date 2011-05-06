@@ -28,7 +28,7 @@
     </tbody>
 </table>
 <div align="right">
-	<select id="per-page">
+	<select id="select-per-page-inventory">
 	<? for ($val = 5; $val<=50; $val+=5): ?>
     	<option value="<?=$val?>" <?=($val == $this->session->userdata("pagination_per_page")) ? "checked" : ""?>><?=$val?></option>
     <? endfor;?>

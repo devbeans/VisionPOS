@@ -147,4 +147,47 @@ class Ajaxinventory extends Model {
 	
 	function treatment_price($str)
 	{
-		$query = $this->db->query("select sum(cost_price) as cost_price,sum(retail_price) as retail_price from l
+		$query = $this->db->query("select sum(cost_price) as cost_price,sum(retail_price) as retail_price from lens_treatments where id in ($str)");
+		return $query->row_array();
+	}
+	
+	function check_frame($eye_size,$bridge_size,$color_id,$frame_id)
+	{
+		$this->db->select('id');
+		
+		$this->db->where('eye_size',$eye_size ); 
+		$this->db->where('bridge_size',$bridge_size ); 
+		$this->db->where('color_id',$color_id ); 
+		$this->db->where('id',$frame_id ); 
+		
+		$query = $this->db->get('frames');
+		
+		return $query->row_array();
+	}
+	
+	function get_treatment_price($id)
+	{
+		$this->db->select('retail_price');
+		$this->db->where('id',$id); 		
+		$query = $this->db->get('lens_treatments');
+		
+		return $query->row_array();
+	}
+	
+	function dispencer_name($dispencer_id)
+	{
+		$this->db->select('username');
+		$this->db->where('dispencer_id',$dispencer_id); 		
+		$query = $this->db->get('users');
+		
+		return $query->row_array();
+	}
+	
+	function lens_color()
+	{
+		$this->db->select('id,color');
+		$query = $this->db->get('lens_colors');
+		return $query->result_array();
+	}
+}
+?>

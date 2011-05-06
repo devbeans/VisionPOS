@@ -369,3 +369,85 @@ class Permissions Extends Model
 		}
 
 		
+
+		return $query;
+
+	}
+
+	
+
+	// Set permission data
+
+	// $permission_data is an array that will be set into 'data' field in permissions table
+
+	function set_permission_data($role_id, $permission_data, $serialize = TRUE)
+
+	{		
+
+		if ($serialize)
+
+		{
+
+			$permission_data = $this->_serialize($permission_data);
+
+		}
+
+		
+
+		$data['data'] = $permission_data;
+
+		
+
+		return $this->set_permission($role_id, $data);
+
+	}
+
+	
+
+	function set_permission_value($role_id, $key, $value)
+
+	{
+
+		// Get role_id permission data first. 
+
+		// So the previously set permission array key won't be overwritten with new array with key $key only, 
+
+		// when calling set_permission_data later.
+
+		$permission_data = $this->get_permission_data($role_id);
+
+	
+
+		// Set value in permission data array
+
+		$permission_data[$key] = $value;
+
+		
+
+		// Set permission data for role_id
+
+		return $this->set_permission_data($role_id, $permission_data);
+
+	}
+
+	
+
+	function check_permission($role_id)
+
+	{
+
+		$this->db->select('1', FALSE);
+
+		$this->db->where('role_id', $role_id);
+
+		
+
+		return $this->db->get($this->_table);
+
+	}
+
+}
+
+
+
+?>

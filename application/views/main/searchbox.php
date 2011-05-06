@@ -98,4 +98,13 @@
 </div> <!-- end of main form -->      
 
 <div class="search-instructions">
-<p>Enter customers name, address, or phone number to beg
+<p>Enter customers name, address, or phone number to begin search.  You can search for partial names or entire names.</p>
+<p><u>Hints for better search results</u></p>
+<ul>
+<li>If you get too many results try entering more of the name.  For example:  Instead of <b>"smith"</b> search for <b>"John Smith"</b></li>
+<li>If you don't find customer (no records returned) search for just part of the name. For example: Instead of <B>"John Q. Adams"</B> search for <b>"Adams"</b></li>
+</ul>
+</div>
+
+
+<!-- <div id="autocomplete_choices" class="autocomplete"></div> -->

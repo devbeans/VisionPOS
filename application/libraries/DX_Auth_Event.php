@@ -232,4 +232,20 @@ class DX_Auth_Event
 
 			$this->ci->config->item('DX_website_name'), 
 
-			$data['reset_passwo
+			$data['reset_password_uri'],
+
+			$data['password'],
+
+			$data['key'],
+
+			$this->ci->config->item('DX_webmaster_email'),
+
+			$this->ci->config->item('DX_website_name'));
+
+	}
+
+}
+
+
+
+?>

@@ -1,19 +1,19 @@
-<!-- VIEW->mas90report.php  -->
-<?php
+<!-- VIEW->mas90report.php  -->
+<?php
 			//if(isset($_POST['begindate'])) {$begindate = $_POST['begindate'];} else
-			//	{$begindate = '2009-12-01';}
+			//	{$begindate = '2009-12-01';}
 			if(isset($_POST['enddate'])) {$enddate = $_POST['enddate'];} else
 				{$enddate = '2009-12-01';} 
 			if(isset($_POST['minamount'])) {$minamount = $_POST['minamount'];} else {$minamount = 250;}
 			if(isset($_POST['maxamount'])) {$maxamount = $_POST['maxamount'];} else {$maxamount = 500;}
 			if(isset($_POST['zipcodes'])) {$zipcodes = $_POST['zipcodes'];} else {$zipcodes = 'ALL';}
 			if ($zipcodes == '' ) { $zipcodes  = 'ALL'; }
-
-?>
-
-<div id="mas90report">
-
-		<p>
+
+?>
+
+<div id="mas90report">
+
+		<p>
 			<?php echo form_open('reports/mas90report');
 				
 			echo '<p>Min Amount: '; 
@@ -51,7 +51,7 @@
 				);
 			echo form_input($zipcodesdata);
 //			echo '(ONLY if selecting \'All Stores\')';
-			echo '</p>';
+			echo '</p>';
 			
 			echo '<label for="begindate">Begin Date </label><input type="text" label="Calendar" name="begindate" id="begindate" value=' . $begindate . '>
 					 <img src="' . base_url() . 'images/44white_shadow-145.png" id="begin_f_trigger_c" style="cursor: pointer; " title="Date selector"
@@ -81,20 +81,37 @@
 				    });
 				</script>';
 			
-			
-			echo '<label for="maxrecords">Max. Number of Results: </label>'; 
-			$options = array(
-								'50' => '50',
-								'100' => '100', 
-			                  '250'  => '250',
-			                  '500'    => '500',
-			                  '999999999' => 'All',
-			                );	
-			echo form_dropdown('maxrecords', $options);
-			echo '' . form_submit('submit','Run Report'); 
-			echo form_close(); 
-			?>
+			
+			echo '<label for="maxrecords">Max. Number of Results: </label>'; 
+			$options = array(
+								'50' => '50',
+								'100' => '100', 
+			                  '250'  => '250',
+			                  '500'    => '500',
+			                  '999999999' => 'All',
+			                );	
+			echo form_dropdown('maxrecords', $options);
+			echo '' . form_submit('submit','Run Report'); 
+			echo form_close(); 
+			?>
 			</p>
-			</div>
-
-	<?php 
+			</div>
+
+	<?php if (isset($_POST['maxrecords'])) 
+	{
+	?>
+		<p>
+		<?php 
+			if ($numresults <> 0) {
+				echo '<p>Results Returned: ' . $numresults;
+				echo ' | ' . anchor('reports/mas90report/' . $_POST['begindate'] . '/' . $_POST['enddate'] . '/' . $_POST['maxrecords'] . '/' . $_POST['minamount'] . '/' . $_POST['maxamount'] . '/' . $_POST['store_id'] . '/' . $zipcodes . '/' . 'CSV', 'Export to CSV');
+				echo ' | ' . anchor('reports/mas90report/' . $_POST['begindate'] . '/' . $_POST['enddate'] . '/' . $_POST['maxrecords'] . '/' . $_POST['minamount'] . '/' . $_POST['maxamount'] . '/' . $_POST['store_id'] . '/' . $zipcodes . '/' . 'LABELS', 'Print labels') . '</p>';
+				echo $mas90report;		
+			} else {
+				echo 'Sorry, no results returned for your dates selected';
+			}
+		?> 
+		</p>
+	<?php 		
+ 	} ?>
+</div>

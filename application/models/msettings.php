@@ -145,3 +145,95 @@ class Msettings extends Model {
 	{
 		$this->db->select('lens_a_min AS min, lens_a_max AS max, lens_a_increment AS increment, lens_a_decimals AS decimals, lens_a_signed AS signed, lens_a_default AS default_value, lens_a_blank AS blank');
 		$this->db->limit(1);
+		$query = $this->db->get('settings');
+		if ($query->num_rows() > 0) 
+		{
+			$lens_a = $query->row();
+			return $lens_a;
+		} else {
+			return 0;
+		}
+	}
+	
+	function lens_b_params ()
+	{
+		$this->db->select('lens_b_min AS min, lens_b_max AS max, lens_b_increment AS increment, lens_b_decimals AS decimals, lens_b_signed AS signed, lens_b_default AS default_value, lens_b_blank AS blank');
+		$this->db->limit(1);
+		$query = $this->db->get('settings');
+		if ($query->num_rows() > 0) 
+		{
+			$lens_b = $query->row();
+			return $lens_b;
+		} else {
+			return 0;
+		}
+	}
+	
+	function lens_ed_params ()
+	{
+		$this->db->select('lens_ed_min AS min, lens_ed_max AS max, lens_ed_increment AS increment, lens_ed_decimals AS decimals, lens_ed_signed AS signed, lens_ed_default AS default_value, lens_ed_blank AS blank');
+		$this->db->limit(1);
+		$query = $this->db->get('settings');
+		if ($query->num_rows() > 0) 
+		{
+			$lens_ed = $query->row();
+			return $lens_ed;
+		} else {
+			return 0;
+		}
+	}
+	
+	function eye_size_params ()
+	{
+		$this->db->select('eye_size_min AS min, eye_size_max AS max, eye_size_increment AS increment, eye_size_decimals AS decimals, eye_size_signed AS signed, eye_size_default AS default_value, eye_size_blank AS blank');
+		$this->db->limit(1);
+		$query = $this->db->get('settings');
+		if ($query->num_rows() > 0) 
+		{
+			$eye_size = $query->row();
+			return $eye_size;
+		} else {
+			return 0;
+		}
+	}
+	
+	function lens_gradient_params ()
+	{
+
+		$this->db->select('lens_gradient_min AS min, lens_gradient_max AS max, lens_gradient_increment AS increment, lens_gradient_decimals AS decimals, lens_gradient_signed AS signed, lens_gradient_default AS default_value, lens_gradient_blank AS blank');
+		$this->db->limit(1);
+		$query = $this->db->get('settings');
+		if ($query->num_rows() > 0) 
+		{
+			$lens_gradient = $query->row();
+			//echo print_r($lens_gradient);
+			return $lens_gradient;
+		} else {
+			return 0;
+		}
+	}
+	
+	
+	
+	function get_lab_fee()
+	{
+		$this->db->select('lab_fee AS fee, lab_fee_type AS type');
+		$this->db->limit(1);
+		$query = $this->db->get('settings');
+		if ($query->num_rows() > 0) 
+		{
+			$result =  $query->result_array();
+			return $result;
+		}	
+	}
+	
+
+}
+
+
+
+//   mysql_insert_id();   --  To get the last auto_increment number inserted
+
+
+
+?>

@@ -143,4 +143,102 @@ New Order				</legend>
 	<?php echo "Hello World!";?></div>
 	
 	<div id="discounts" style="position:relative; width:120px; height:24px; left:11px; top:23px; " >
-		<? echo  '<lab
+		<? echo  '<label class="field4" for="discount">discount<BR>'; ?>
+		<? echo  form_dropdown('discount', $list_discounts ) . '</label>'; ?>				
+	</div>
+		
+	<div id="frame_divisions" style="position:relative; left:44px; top:44px; " >
+		<? echo  '<label class="field4" for="frame_division">Frame Divisions<BR>'; ?>
+		<? echo  form_dropdown('division', $frame_divisions ) . '</label>'; ?>
+	</div>
+		
+	<div id="invoice_status" style="position:relative; left:44px; top:67px; " >
+		<? echo  '<label class="field4" for="inv_status">Invoice Status<BR>'; ?>
+		<? echo  form_dropdown('status', $list_invoice_status ) . '</label>'; ?>
+	</div>
+		
+		
+	<div id="order_type" style="position:relative; height:20px; width:260px; left:389px; top:120px; " >
+		<? echo  '<label class="field4" for="order_type">Order Type<BR>'; ?>
+		<? echo  form_dropdown('order_type', $list_order_type ) . '</label>'; ?>
+	</div>
+		
+	<div id="lens_coating" style="position:absolute; left:47px; top:112px; " >
+		<? echo  '<label class="field4" for="coating">Lens Coating<BR>'; ?>
+		<? echo  form_dropdown('coating', $list_lens_coatings ) . '</label>'; ?>
+	</div>
+	
+	<div id="lens_color" style="position:absolute; left:47px; top:135px; " >
+		<? echo  '<label class="field4" for="color">Lens Color<BR>'; ?>
+		<? echo  form_dropdown('color', $list_lens_colors ) . '</label>'; ?>
+	</div>
+	
+	<div id="lens_material" style="position:absolute; width:249px; height:141px; left:138px; top:211px; " onfocus="alert('hello world!');" onload="alert('hello world!');" >	
+		<? echo  '<label class="field4" for="material">Lens Material<BR>'; ?>
+		<? echo  form_dropdown('material', $list_lens_materials ) . '</label>'; ?>
+	<big></big>this is a test. &nbsp;Does it work?<br></div>
+	
+	<div id="lens_near_l" style="position:absolute; left:45px; top:182px; " >	
+		<? echo  '<label class="field4" for="pd">Near L<BR>'; ?>
+		<? echo  form_dropdown('pd', $list_lens_pd ) . '</label>'; ?>
+	</div>
+	
+	<div id="lens_near_r" style="position:absolute; left:47px; top:206px; " >		
+		<? echo  '<label class="field4" for="pd">Near R<BR>'; ?>
+		<? echo  form_dropdown('pd', $list_lens_pd ) . '</label>'; ?>
+	</div>
+			
+	<div id="lens_far_l" style="position:absolute; left:46px; top:230px; " >
+		<? echo  '<label class="field4" for="pd">Far L<BR>'; ?>
+		<? echo  form_dropdown('pd', $list_lens_pd ) . '</label>'; ?>
+	</div>
+			
+	<div id="lens_far_r" style="position:absolute; left:46px; top:258px; " >
+		<? echo  '<label class="field4" for="pd">Far R<BR>'; ?>
+		<? echo  form_dropdown('pd', $list_lens_pd ) . '</label>'; ?>
+	</div>
+		
+	<div id="lens_shape" style="position:absolute; left:47px; top:282px; " >	
+		<? echo  '<label class="field4" for="shape">Lens Shape<BR>'; ?>
+		<? echo  form_dropdown('shape', $list_lens_shapes ) . '</label>'; ?>
+	</div>
+			
+	<div id="lens_sizes" style="position:absolute; left:49px; top:306px; " >
+		<? echo  '<label class="field4" for="size">Lens Size<BR>'; ?>
+		<? echo  form_dropdown('size', $list_lens_sizes ) . '</label>'; ?>
+	</div>
+		
+	<div id="lens_treatment" style="position:absolute; left:48px; top:331px; " >
+		<? echo  '<label class="field4" for="treatment">Lens treatment<BR>'; ?>
+		<? echo  form_dropdown('treatment', $list_lens_treatments ) . '</label>'; ?>
+	</div>
+		
+	<div id="frame_manufacturers" style="position:absolute; left:48px; top:358px; " >
+		<? echo  '<label class="field4" for="manufacturer">Frame Manufacturer<BR>'; ?>
+		<? echo  form_dropdown('manufacturer', $list_manufacturers ) . '</label>'; ?>
+	</div>
+		
+	<div id="remake_reason" style="position:absolute; left:48px; top:380px; " >
+		<? echo  '<label class="field4" for="remake_reason">Remake Reason<BR>'; ?>
+		<? echo  form_dropdown('remake_reason', $list_remake_reasons ) . '</label>'; ?>
+	</div>
+		
+	<div id="temple_length" style="position:absolute; left:46px; top:402px; " >
+		<? echo  '<label class="field4" for="temple_length">Temple Length<BR>'; ?>
+		<? echo  form_dropdown('temple_length', $list_temple_lengths ) . '</label>'; ?>
+	</div>
+		
+	<div id="temple_styles" style="position:absolute; width:259px; height:23px; left:220px; top:119px; " >
+		<? echo  '<label class="field4" for="temple_style">Temple Style<BR>'; ?>
+		<? echo  form_dropdown('temple_style', $list_temple_styles ) . '</label>'; ?>
+	</div>
+	
+	<div id="submit" style="position:absolute; height:23px; left:220px; top:167px; width:260px; " >
+		<? echo  form_submit('submit','Submit'); ?>
+		<? echo  form_close(); ?>
+	</div>
+		
+			</fieldset>
+		</div>
+
+</body></html>

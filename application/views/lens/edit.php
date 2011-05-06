@@ -172,4 +172,97 @@
 			lensBrand = $("select#select-lens-brand"),
 			lensDesign = $("select#select-lens-design"),
 			lensMaterial = $("select#select-lens-material"),
-			lensMaterial
+			lensMaterialPrice = $("div#slider-lens-material-price"),
+			lensMaterialPriceSave = lensMaterialPrice.children("button#price-submit");
+		
+		fillLensType(lensType);
+		
+		lensType.change(function(){
+			var $this = $(this);
+			if ($this.val() === "") {
+				clearSelects([lensBrand, lensDesign, lensMaterial]);
+			} else {
+				fillLensBrand(lensBrand, $this.val());
+				clearSelects([lensDesign, lensMaterial]);
+			}
+		});
+		
+		lensBrand.change(function(){
+			var $this = $(this);
+			if ($this.val() === "") {
+				clearSelects([lensDesign, lensMaterial]);
+			} else {
+				fillLensDesign(lensDesign, $this.val());
+				clearSelects([lensMaterial]);
+			}
+		});
+		
+		lensDesign.change(function(){
+			var $this = $(this);
+			if ($this.val() === "") {
+				clearSelects([lensMaterial]);
+			} else {
+				fillLensMaterial(lensMaterial, $this.val());
+			}
+		});
+		
+		lensMaterial.change(function(){
+			var $this = $(this);
+			if ($this.val() === "") {
+				lensMaterialPrice.addClass("hidden");
+			} else {
+				lensMaterialPrice.removeClass("hidden");
+				fillLensMaterialPrice(lensMaterialPrice, $this.val());
+			}
+		});
+		
+		lensMaterialPriceSave.click(function(){
+			var $this = $(this),
+				cost_price = $this.siblings("input#lens-material-cost-price").val(),
+				retail_price = $this.siblings("input#lens-material-retail-price").val(),
+				material_id = lensMaterial.val();
+			
+			$.ajax({
+				type: "POST",
+				url: base_url("lens/materials"),
+				data: { material_id: material_id, cost_price: cost_price, retail_price: retail_price }
+			});
+		});
+	});
+})(jQuery);
+</script>
+
+<div id="sliders">
+	<div id="sliders-lens-type" class="slider">
+		<label for="select-lens-type">Lens Type</label>
+		<select id="select-lens-type">
+			<option value="">- - -</option>
+		</select>
+	</div>
+	<div id="sliders-lens-brand" class="slider">
+		<label for="select-lens-brand">Lens Brand</label>
+		<select id="select-lens-brand">
+			<option value="">- - -</option>
+		</select>
+	</div>
+	<div id="sliders-lens-design" class="slider">
+		<label for="select-lens-design">Lens Design</label>
+		<select id="select-lens-design">
+			<option value="">- - -</option>
+		</select>
+	</div>
+	<div id="slider-lens-material" class="slider">
+		<label for="select-lens-material">Lens Material</label>
+		<select id="select-lens-material">
+			<option value="">- - -</option>
+		</select>
+	</div>
+	<div id="slider-lens-material-price" class="slider hidden">
+		<label for="lens-material-cost-price">Cost Price</label>
+		<input id="lens-material-cost-price" type="text" />
+		<label for="lens-material-retail-price">Retail Price</label>
+		<input id="lens-material-retail-price" type="text" />
+		<button id="price-submit">Save</button>
+	</div>
+	<div id="sliders-clear"></div>
+</div>

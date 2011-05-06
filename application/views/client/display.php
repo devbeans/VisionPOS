@@ -148,4 +148,18 @@
 	
 	echo '<div>';
 	echo '<ul class="customer-functions">';
-	echo '<li>'.anchor('main/checkin/' . $thi
+	echo '<li>'.anchor('main/checkin/' . $this->uri->segment(3), 'Check-In Client').'</li>';
+
+	echo '<li>'.anchor('main/logcontact/' . $this->uri->segment(3), 'Customer Contact').'</li>';
+																  
+	echo '<li>'.anchor('main/edit_client/' . $this->uri->segment(3) , 'Edit').'</li>';
+
+	echo '<li>'.$new_order_button.'</li>';
+	
+	echo '<li>'.$balance_statement.'</li>';;
+	echo '</ul>';
+	echo '</div>';
+
+?>	
+</fieldset>
+</div>

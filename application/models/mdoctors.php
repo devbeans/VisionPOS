@@ -11,7 +11,77 @@ class Mdoctors extends Model {
 		parent::Model();
 
 	}
-	
+
+        public function count($args = NULL)
+        {
+            if (is_array($args))
+            {
+                foreach ($args as $field => $value)
+                {
+                    $this->db->where($field, $value);
+                }
+            }
+
+            $this->db->select("count(*) AS 'total'");
+            $result = $this->db->get("doctors");
+            return $result->row()->total;
+        }
+        /*
+         * Returns lens types resultset
+         * Param $start = starting index
+         * Param $limit = number of rows to return
+         * Param $args  = fields to filter
+         */
+        public function select($start = NULL, $limit = NULL, $args = NULL)
+        {
+            if (is_array($args))
+            {
+                foreach ($args as $field => $value)
+                {
+                    $this->db->where($field, $value);
+                }
+            }
+            if ($start >= 0)
+                $this->db->limit($limit, $start);
+
+
+            return $this->db->get("doctors");
+        }
+        /*
+         * Returns the lens row given the id
+         */
+        public function get($id)
+        {
+            $this->db->where("doctor_id", $id);
+            return $this->db->get('doctors')->row();
+        }
+        /*
+         * Inserts new lens material row
+         * returns the inserted id
+         */
+        public function insert($data)
+        {
+            $this->db->insert("doctors", $data);
+            return $this->db->insert_id();
+        }
+        /*
+         * Updates a lens material row
+         * Param $id - the id of the row to update
+         * Param $data - the key value array of columns to update
+         */
+        public function update($id, $data)
+        {
+            $this->db->where("doctor_id", $id);
+            $this->db->update("doctors", $data);
+        }
+
+        public function delete($id)
+        {
+            $this->db->where("doctor_id", $id);
+            $this->db->delete("doctors");
+        }
+
+
 	function get_dropdown_array($key, $value){
         $result = array();
         $array_keys_values = $this->db->query('SELECT '.$key.', '.$value.' FROM doctors WHERE active = TRUE ORDER BY  ' . $value . ' ASC');

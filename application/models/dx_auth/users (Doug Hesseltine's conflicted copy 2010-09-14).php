@@ -352,4 +352,16 @@ class Users extends Model
 
 	{
 
-		$this->db->set('p
+		$this->db->set('password', $new_pass);
+
+		$this->db->where('id', $user_id);
+
+		return $this->db->update($this->_table);
+
+	}
+
+}
+
+
+
+?>

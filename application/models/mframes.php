@@ -135,4 +135,7 @@ class Mframes extends Model {
 		} else {
 			return 'ERROR';
 		}		
-	}		function get_frame_color(){	    $result = array();	    $query = $this->db->query('SELECT color, id FROM frame_colors WHERE active = TRUE ORDER BY color asc');		if ($query->num_rows() > 0) {				$result =  $query->result_array();			return $result;		}  			}		function get_inventory_frame_manufacturers(){	    $result = array();	    $query = $this->db->query('SELECT manufacturer, id FROM frame_manufacturers WHERE active = TRUE ORDER BY manufacturer asc');		if ($query->num_rows() > 0) {				$result =  $query->result_array();			$result = array_merg
+	}		function get_frame_color(){	    $result = array();	    $query = $this->db->query('SELECT color, id FROM frame_colors WHERE active = TRUE ORDER BY color asc');		if ($query->num_rows() > 0) {				$result =  $query->result_array();			return $result;		}  			}		function get_inventory_frame_manufacturers(){	    $result = array();	    $query = $this->db->query('SELECT manufacturer, id FROM frame_manufacturers WHERE active = TRUE ORDER BY manufacturer asc');		if ($query->num_rows() > 0) {				$result =  $query->result_array();			$result = array_merge(array("0"=>array("id"=>"","manufacturer"=>"- - - ")),$result);			return $result;		}  			}			function add_inventory($frame_id, $other='', $color_id, $store_id, $quantity,$division_id)	{		if ($other!='') 		{			$ndata = array( 				'division_id' => $division_id,				'name' => $other			);			$this->db->insert('frames', $ndata );			$frame_id = $this->db->insert_id();		} 		$data = array( 				'frame_id' => $frame_id,				'color_id' => $color_id,				'store_id' => $store_id,				'quantity' => $quantity		);		$result = $this->db->insert('frame_inventory', $data );		return $result;	}	
+	
+}
+?>

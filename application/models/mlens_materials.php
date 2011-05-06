@@ -134,4 +134,11 @@ class Mlens_materials extends Model {
 				'material' => $material
 			);
 			$result = $this->db->insert('lens_materials', $data );
-			ret
+			return $result;
+		}  		
+	}
+
+	
+	
+}
+?>

@@ -1,3 +1,3 @@
-<div id="home">
-Inventory Reports
-</div>
+<div id="home">
+Inventory Reports
+</div>

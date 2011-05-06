@@ -54,7 +54,8 @@
 						<li>'.anchor('inventory/lens_designs', 'Lens Designs').'</li>
 						<li>'.anchor('inventory/lens_materials', 'Lens Materials').'</li>
 						<li>'.anchor('inventory/edit_lens_treatments', 'Lens Treatments').'</li>
-						<li>'.anchor('settings/edit_doctors', 'Edit Doctor\'s list').'</li>
+						<li>'.anchor('settings/doctor_list', 'Doctors').'</li>
+						<li>'.anchor('inventory/insurance_list', 'Insurance').'</li>
 						<li>'.anchor('inventory/store_inventory', 'Store Inventory').'</li>
 						
 					</ul>';

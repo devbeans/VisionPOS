@@ -123,4 +123,73 @@ class Mmas90data extends Model {
 		'address3' => $_POST['address3'],
 		'city' => $_POST['city'],
 		'state' => $_POST['state'],
-		'zipcode' => 
+		'zipcode' => $_POST['zipcode'],
+		'phone' => $_POST['phone'],
+		'modified' => '1',
+		'date_modified' => date("Y/m/d")
+		); 
+		
+		$this->db->where('customer_number', $_POST['customer_number']);
+		$this->db->update('mas90data', $data); 	
+	}
+	
+	function split_customer_name()
+	{
+		$this->db->select('customer_name, customer_number');
+		$this->db->where('namesplit <>', '1');
+		//$this->db->like('customer_number', '10-%');
+		$query = $this->db->get('mas90data', 10000);
+		foreach ($query->result() as $row){
+			if ( $row->customer_name <> '' ) 
+			{
+				$myarray = explode(',', $row->customer_name);
+				$lastname = addslashes($myarray[0]);	//lastname	
+				if ( count($myarray) > 1 ) {		
+					$firstname = addslashes($myarray[1]);	//firstname
+				} else {
+					$firstname = '';
+				}
+
+			} else {
+				$firstname = null;
+				$lastname = null;
+			}
+		//echo $firstname . ' ' . $lastname . ' ' . $row->customer_number . '<BR>';
+			$this->db->query('UPDATE mas90data SET customer_name = \'' . $firstname . ' ' . $lastname . '\' , namesplit = \'true\' WHERE customer_number = \'' . $row->customer_number . '\'');  
+		}
+	}
+	
+	function archiveclient($customer_number) {
+		
+		$this->db->where('customer_number ', $customer_number);
+		$this->db->limit(1);
+		$data = array('archive' => '1', 'date_archived' => date("Y/m/d") );
+		$query = $this->db->update('mas90data',$data); 
+		$this->session->set_flashdata('flashmessage', 'Client ' . $this->uri->segment(3) . ' archived');	
+	}
+	
+	function unarchiveclient($customer_number) {
+		
+		$this->db->where('customer_number ', $customer_number);
+		$this->db->limit(1);
+		$data = array('archive' => '0', 'date_archived' => date("Y/m/d") );
+		$query = $this->db->update('mas90data',$data); 
+		$this->session->set_flashdata('flashmessage', 'Client ' . $this->uri->segment(3) . ' un-archived');	
+	}
+	
+	function set_proper_case()
+		{ 
+		$this->db->select('customer_name, address1, address2, address3, city, customer_number');
+		$this->db->where('propercase <>', '1');
+		$query = $this->db->get('mas90data', 10000);
+		foreach ($query->result() as $row){ 
+			if ( $row->customer_name <> '' ) {$pcustomer_name = ucwords ( strtolower(addslashes($row->customer_name ) ) );  } else { $pcustomer_name = NULL; }
+			if ( $row->address1 <> '' ) {$paddress1 = ucwords ( strtolower(addslashes($row->address1))); } else { $paddress1 = NULL; }
+			if ( $row->address2 <> '' ) {$paddress2 = ucwords ( strtolower(addslashes($row->address2))); } else { $paddress2 = NULL; }
+			if ( $row->address3 <> '' ) {$paddress3 = ucwords ( strtolower(addslashes($row->address3))); } else { $paddress3 = NULL; }
+			if ( $row->city <> '' ) {$pcity = ucwords ( strtolower(addslashes($row->city))); } else { $pcity = NULL; }
+			$this->db->query('UPDATE mas90data SET customer_name = \'' . $pcustomer_name . '\', address1 = \'' . $paddress1 . '\', address2 = \'' . $paddress2 . '\', address3 = \'' . $paddress3 . '\', city = \'' . $pcity . '\', propercase = \'true\' WHERE customer_number = \'' . $row->customer_number. '\'');
+		} 
+	}
+}
+?>
