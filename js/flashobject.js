@@ -88,4 +88,54 @@ this.addVariable("MMredirectURL",escape(this.getAttribute("xiRedirectUrl")));
 document.title=document.title.slice(0,47)+" - Flash Player Installation";
 this.addVariable("MMdoctitle",document.title);}
 }else{this.setAttribute("doExpressInstall",false);}
-if(this.skipDetect||this.getAttribute("doExpressInstall")||this.installedVer.versionIsValid(this.ge
+if(this.skipDetect||this.getAttribute("doExpressInstall")||this.installedVer.versionIsValid(this.getAttribute("version"))){
+var n=(typeof _23=="string")?document.getElementById(_23):_23;
+n.innerHTML=this.getFlashHTML();
+}else{if(this.getAttribute("redirectUrl")!=""){document.location.replace(this.getAttribute("redirectUrl"));}}}};
+com.deconcept.FlashObjectUtil.getPlayerVersion=function(_26,_27){
+var _28=new com.deconcept.PlayerVersion(0,0,0);
+if(navigator.plugins&&navigator.mimeTypes.length){
+var x=navigator.plugins["Shockwave Flash"];
+if(x&&x.description){_28=new com.deconcept.PlayerVersion(x.description.replace(/([a-z]|[A-Z]|\s)+/,"").replace(/(\s+r|\s+b[0-9]+)/,".").split("."));}
+}else{
+try{var axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+for(var i=3;axo!=null;i++){
+axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
+_28=new com.deconcept.PlayerVersion([i,0,0]);}}
+catch(e){}
+if(_26&&_28.major>_26.major){return _28;}
+if(!_26||((_26.minor!=0||_26.rev!=0)&&_28.major==_26.major)||_28.major!=6||_27){
+try{
+_28=new com.deconcept.PlayerVersion(axo.GetVariable("$version").split(" ")[1].split(","));
+}catch(e){}}}
+return _28;
+};
+com.deconcept.PlayerVersion=function(_2c){
+this.major=parseInt(_2c[0])||0;
+this.minor=parseInt(_2c[1])||0;
+this.rev=parseInt(_2c[2])||0;
+};
+com.deconcept.PlayerVersion.prototype.versionIsValid=function(fv){
+if(this.major<fv.major){return false;}
+if(this.major>fv.major){return true;}
+if(this.minor<fv.minor){return false;}
+if(this.minor>fv.minor){return true;}
+if(this.rev<fv.rev){return false;}
+return true;
+};
+com.deconcept.util={getRequestParameter:function(_2e){
+var q=document.location.search||document.location.hash;
+if(q){var _30=q.indexOf(_2e+"=");
+var _31=(q.indexOf("&",_30)>-1)?q.indexOf("&",_30):q.length;
+if(q.length>1&&_30>-1){
+return q.substring(q.indexOf("=",_30)+1,_31);}}return "";
+},removeChildren:function(n){
+while(n.hasChildNodes()){
+n.removeChild(n.firstChild);}}};
+if(Array.prototype.push==null){
+Array.prototype.push=function(_33){
+this[this.length]=_33;
+return this.length;};}
+var getQueryParamValue=com.deconcept.util.getRequestParameter;
+var FlashObject=com.deconcept.FlashObject;
+

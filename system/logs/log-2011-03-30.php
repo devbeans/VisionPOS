@@ -2660,4 +2660,741 @@ DEBUG - 2011-03-30 22:06:27 --> Accessing site_offline hook!
 DEBUG - 2011-03-30 22:06:27 --> URI Class Initialized
 DEBUG - 2011-03-30 22:06:28 --> No URI present. Default controller set.
 DEBUG - 2011-03-30 22:06:28 --> Router Class Initialized
-DEBUG - 2011-03-30 22:06:28 --> Output
+DEBUG - 2011-03-30 22:06:28 --> Output Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Input Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 22:06:28 --> Language Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Loader Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 22:06:28 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 22:06:28 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 22:06:28 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 22:06:28 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Email Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Session Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 22:06:28 --> Session routines successfully run
+DEBUG - 2011-03-30 22:06:28 --> Table Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Controller Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> DX Auth Initialized
+DEBUG - 2011-03-30 22:06:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:06:28 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 22:06:28 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 22:06:28 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:06:28 --> Pagination Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Config Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Hooks Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 22:06:28 --> URI Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Router Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Output Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Input Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 22:06:28 --> Language Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Loader Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 22:06:28 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 22:06:28 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 22:06:28 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 22:06:28 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Email Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Session Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 22:06:28 --> Session routines successfully run
+DEBUG - 2011-03-30 22:06:28 --> Table Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Controller Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> DX Auth Initialized
+DEBUG - 2011-03-30 22:06:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:06:28 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 22:06:28 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 22:06:28 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:06:28 --> Pagination Class Initialized
+DEBUG - 2011-03-30 22:06:28 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-03-30 22:06:28 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-03-30 22:06:28 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/main/search.php
+DEBUG - 2011-03-30 22:06:28 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-03-30 22:06:28 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-03-30 22:06:28 --> Final output sent to browser
+DEBUG - 2011-03-30 22:06:28 --> Total execution time: 0.0574
+DEBUG - 2011-03-30 22:06:32 --> Config Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Hooks Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 22:06:32 --> URI Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Router Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Output Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Input Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 22:06:32 --> Language Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Loader Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 22:06:32 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 22:06:32 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 22:06:32 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 22:06:32 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 22:06:32 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 22:06:32 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 22:06:32 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 22:06:32 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 22:06:32 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Email Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Session Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 22:06:32 --> Session routines successfully run
+DEBUG - 2011-03-30 22:06:32 --> Table Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Controller Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> DX Auth Initialized
+DEBUG - 2011-03-30 22:06:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:06:32 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 22:06:32 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 22:06:32 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:06:32 --> Pagination Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:32 --> Helper loaded: list_builder_helper
+DEBUG - 2011-03-30 22:06:32 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-03-30 22:06:32 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-03-30 22:06:32 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/inventory/store_inventory.php
+DEBUG - 2011-03-30 22:06:32 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-03-30 22:06:32 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-03-30 22:06:32 --> Final output sent to browser
+DEBUG - 2011-03-30 22:06:32 --> Total execution time: 0.4124
+DEBUG - 2011-03-30 22:06:54 --> Config Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Hooks Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 22:06:54 --> URI Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Router Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Output Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Input Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 22:06:54 --> Language Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Loader Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 22:06:54 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 22:06:54 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 22:06:54 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 22:06:54 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 22:06:54 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 22:06:54 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 22:06:54 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 22:06:54 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 22:06:54 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Email Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Session Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 22:06:54 --> A session cookie was not found.
+DEBUG - 2011-03-30 22:06:54 --> Session routines successfully run
+DEBUG - 2011-03-30 22:06:54 --> Table Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Controller Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 22:06:54 --> DX Auth Initialized
+DEBUG - 2011-03-30 22:06:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:06:54 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 22:06:54 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 22:06:54 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:06:54 --> Pagination Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Config Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Hooks Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 22:06:55 --> URI Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Router Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Output Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Input Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 22:06:55 --> Language Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Loader Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 22:06:55 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 22:06:55 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 22:06:55 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 22:06:55 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 22:06:55 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 22:06:55 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 22:06:55 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 22:06:55 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 22:06:55 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Email Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Session Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 22:06:55 --> Session routines successfully run
+DEBUG - 2011-03-30 22:06:55 --> Table Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Controller Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> DX Auth Initialized
+DEBUG - 2011-03-30 22:06:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:06:55 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 22:06:55 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 22:06:55 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:06:55 --> Pagination Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> Model Class Initialized
+DEBUG - 2011-03-30 22:06:55 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-03-30 22:06:55 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-03-30 22:06:55 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/auth/login_form.php
+DEBUG - 2011-03-30 22:06:55 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-03-30 22:06:55 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-03-30 22:06:55 --> Final output sent to browser
+DEBUG - 2011-03-30 22:06:55 --> Total execution time: 0.0557
+DEBUG - 2011-03-30 22:07:09 --> Config Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Hooks Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 22:07:09 --> URI Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Router Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Output Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Input Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 22:07:09 --> Language Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Loader Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 22:07:09 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 22:07:09 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 22:07:09 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 22:07:09 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 22:07:09 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 22:07:09 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 22:07:09 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 22:07:09 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 22:07:09 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Email Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Session Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 22:07:09 --> Session routines successfully run
+DEBUG - 2011-03-30 22:07:09 --> Table Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Controller Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> DX Auth Initialized
+DEBUG - 2011-03-30 22:07:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:07:09 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 22:07:09 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 22:07:09 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:07:09 --> Pagination Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2011-03-30 22:07:09 --> XSS Filtering completed
+DEBUG - 2011-03-30 22:07:09 --> XSS Filtering completed
+DEBUG - 2011-03-30 22:07:09 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:09 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Config Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Hooks Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 22:07:10 --> URI Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Router Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Output Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Input Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 22:07:10 --> Language Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Loader Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 22:07:10 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 22:07:10 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 22:07:10 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 22:07:10 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 22:07:10 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 22:07:10 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 22:07:10 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 22:07:10 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 22:07:10 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Email Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Session Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 22:07:10 --> Session routines successfully run
+DEBUG - 2011-03-30 22:07:10 --> Table Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Controller Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> DX Auth Initialized
+DEBUG - 2011-03-30 22:07:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:07:10 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 22:07:10 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 22:07:10 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:07:10 --> Pagination Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:10 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-03-30 22:07:10 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-03-30 22:07:10 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/main/search.php
+DEBUG - 2011-03-30 22:07:10 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-03-30 22:07:10 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-03-30 22:07:10 --> Final output sent to browser
+DEBUG - 2011-03-30 22:07:10 --> Total execution time: 0.0831
+DEBUG - 2011-03-30 22:07:28 --> Config Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Hooks Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 22:07:28 --> URI Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Router Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Output Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Input Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 22:07:28 --> Language Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Loader Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 22:07:28 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 22:07:28 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 22:07:28 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 22:07:28 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 22:07:28 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 22:07:28 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 22:07:28 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 22:07:28 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 22:07:28 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Email Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Session Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 22:07:28 --> Session routines successfully run
+DEBUG - 2011-03-30 22:07:28 --> Table Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Controller Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> DX Auth Initialized
+DEBUG - 2011-03-30 22:07:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:07:28 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 22:07:28 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 22:07:28 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:07:28 --> Pagination Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:28 --> Helper loaded: list_builder_helper
+DEBUG - 2011-03-30 22:07:28 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-03-30 22:07:28 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-03-30 22:07:28 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/inventory/store_inventory.php
+DEBUG - 2011-03-30 22:07:28 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-03-30 22:07:28 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-03-30 22:07:28 --> Final output sent to browser
+DEBUG - 2011-03-30 22:07:28 --> Total execution time: 0.0996
+DEBUG - 2011-03-30 22:07:48 --> Config Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Hooks Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 22:07:48 --> URI Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Router Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Output Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Input Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 22:07:48 --> Language Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Loader Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 22:07:48 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 22:07:48 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 22:07:48 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 22:07:48 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 22:07:48 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 22:07:48 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 22:07:48 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 22:07:48 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 22:07:48 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Email Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Session Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 22:07:48 --> Session routines successfully run
+DEBUG - 2011-03-30 22:07:48 --> Table Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Controller Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Model Class Initialized
+DEBUG - 2011-03-30 22:07:48 --> Helper loaded: list_builder_helper
+DEBUG - 2011-03-30 22:07:48 --> Final output sent to browser
+DEBUG - 2011-03-30 22:07:48 --> Total execution time: 0.1156
+DEBUG - 2011-03-30 22:08:01 --> Config Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Hooks Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 22:08:01 --> URI Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Router Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Output Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Input Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 22:08:01 --> Language Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Loader Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 22:08:01 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 22:08:01 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 22:08:01 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 22:08:01 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 22:08:01 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 22:08:01 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 22:08:01 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 22:08:01 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 22:08:01 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Email Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Session Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 22:08:01 --> Session routines successfully run
+DEBUG - 2011-03-30 22:08:01 --> Table Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Model Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Model Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Model Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Controller Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> DX Auth Initialized
+DEBUG - 2011-03-30 22:08:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:08:01 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 22:08:01 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 22:08:01 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 22:08:01 --> Pagination Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Model Class Initialized
+DEBUG - 2011-03-30 22:08:01 --> Model Class Initialized
+DEBUG - 2011-03-30 22:08:08 --> DB Transaction Failure
+ERROR - 2011-03-30 22:08:08 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`wwwgowhg_roipos/frames`, CONSTRAINT `frames_ibfk_1` FOREIGN KEY (`division_id`) REFERENCES `frame_divisions` (`id`) ON UPDATE CASCADE)
+DEBUG - 2011-03-30 22:08:08 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2011-03-30 23:12:20 --> Config Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Hooks Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 23:12:20 --> URI Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> No URI present. Default controller set.
+DEBUG - 2011-03-30 23:12:20 --> Router Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Output Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Input Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 23:12:20 --> Language Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Loader Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 23:12:20 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 23:12:20 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 23:12:20 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 23:12:20 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 23:12:20 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 23:12:20 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 23:12:20 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 23:12:20 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 23:12:20 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Email Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Session Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 23:12:20 --> Session routines successfully run
+DEBUG - 2011-03-30 23:12:20 --> Table Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Controller Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> DX Auth Initialized
+DEBUG - 2011-03-30 23:12:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 23:12:20 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 23:12:20 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 23:12:20 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 23:12:20 --> Pagination Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:20 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-03-30 23:12:20 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-03-30 23:12:20 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/auth/login_form.php
+DEBUG - 2011-03-30 23:12:20 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-03-30 23:12:20 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-03-30 23:12:20 --> Final output sent to browser
+DEBUG - 2011-03-30 23:12:20 --> Total execution time: 0.0817
+DEBUG - 2011-03-30 23:12:21 --> Config Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Hooks Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 23:12:21 --> URI Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> No URI present. Default controller set.
+DEBUG - 2011-03-30 23:12:21 --> Router Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Output Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Input Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 23:12:21 --> Language Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Loader Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 23:12:21 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 23:12:21 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 23:12:21 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 23:12:21 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Email Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Session Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 23:12:21 --> Session routines successfully run
+DEBUG - 2011-03-30 23:12:21 --> Table Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Controller Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> DX Auth Initialized
+DEBUG - 2011-03-30 23:12:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 23:12:21 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 23:12:21 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 23:12:21 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 23:12:21 --> Pagination Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Config Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Hooks Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 23:12:21 --> URI Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Router Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Output Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Input Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 23:12:21 --> Language Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Loader Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 23:12:21 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 23:12:21 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 23:12:21 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 23:12:21 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Email Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Session Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 23:12:21 --> Session routines successfully run
+DEBUG - 2011-03-30 23:12:21 --> Table Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Controller Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> DX Auth Initialized
+DEBUG - 2011-03-30 23:12:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 23:12:21 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 23:12:21 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 23:12:21 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 23:12:21 --> Pagination Class Initialized
+DEBUG - 2011-03-30 23:12:21 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-03-30 23:12:21 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-03-30 23:12:21 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/main/search.php
+DEBUG - 2011-03-30 23:12:21 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-03-30 23:12:21 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-03-30 23:12:21 --> Final output sent to browser
+DEBUG - 2011-03-30 23:12:21 --> Total execution time: 0.0684
+DEBUG - 2011-03-30 23:12:23 --> Config Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Hooks Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 23:12:23 --> URI Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Router Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Output Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Input Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 23:12:23 --> Language Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Loader Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 23:12:23 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 23:12:23 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 23:12:23 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 23:12:23 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 23:12:23 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 23:12:23 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 23:12:23 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 23:12:23 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 23:12:23 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Email Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Session Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 23:12:23 --> Session routines successfully run
+DEBUG - 2011-03-30 23:12:23 --> Table Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Controller Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> DX Auth Initialized
+DEBUG - 2011-03-30 23:12:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 23:12:23 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 23:12:23 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 23:12:23 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 23:12:23 --> Pagination Class Initialized
+DEBUG - 2011-03-30 23:12:23 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-03-30 23:12:23 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-03-30 23:12:23 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/main/search.php
+DEBUG - 2011-03-30 23:12:23 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-03-30 23:12:23 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-03-30 23:12:23 --> Final output sent to browser
+DEBUG - 2011-03-30 23:12:23 --> Total execution time: 0.0530
+DEBUG - 2011-03-30 23:12:26 --> Config Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Hooks Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 23:12:26 --> URI Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Router Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Output Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Input Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 23:12:26 --> Language Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Loader Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 23:12:26 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 23:12:26 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 23:12:26 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 23:12:26 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 23:12:26 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 23:12:26 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 23:12:26 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 23:12:26 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 23:12:26 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Email Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Session Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 23:12:26 --> Session routines successfully run
+DEBUG - 2011-03-30 23:12:26 --> Table Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Controller Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> DX Auth Initialized
+DEBUG - 2011-03-30 23:12:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 23:12:26 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 23:12:26 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 23:12:26 --> Pagination Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Helper loaded: list_builder_helper
+DEBUG - 2011-03-30 23:12:26 --> Helper loaded: array_helper
+DEBUG - 2011-03-30 23:12:26 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:26 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-03-30 23:12:26 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-03-30 23:12:26 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/order/order_form.php
+DEBUG - 2011-03-30 23:12:26 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-03-30 23:12:26 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-03-30 23:12:26 --> Final output sent to browser
+DEBUG - 2011-03-30 23:12:26 --> Total execution time: 0.0857
+DEBUG - 2011-03-30 23:12:27 --> Config Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Hooks Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 23:12:27 --> URI Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Router Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Output Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Input Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 23:12:27 --> Language Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Loader Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 23:12:27 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 23:12:27 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 23:12:27 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 23:12:27 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Email Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Session Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 23:12:27 --> Session routines successfully run
+DEBUG - 2011-03-30 23:12:27 --> Table Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Controller Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> DX Auth Initialized
+DEBUG - 2011-03-30 23:12:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 23:12:27 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 23:12:27 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 23:12:27 --> Pagination Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Final output sent to browser
+DEBUG - 2011-03-30 23:12:27 --> Total execution time: 0.0530
+DEBUG - 2011-03-30 23:12:27 --> Config Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Hooks Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 23:12:27 --> URI Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Router Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Output Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Input Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 23:12:27 --> Language Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Loader Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 23:12:27 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 23:12:27 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 23:12:27 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 23:12:27 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Email Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Session Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 23:12:27 --> Session routines successfully run
+DEBUG - 2011-03-30 23:12:27 --> Table Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Controller Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:27 --> Final output sent to browser
+DEBUG - 2011-03-30 23:12:27 --> Total execution time: 0.0395
+DEBUG - 2011-03-30 23:12:35 --> Config Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Hooks Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Accessing site_offline hook!
+DEBUG - 2011-03-30 23:12:35 --> URI Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Router Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Output Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Input Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-30 23:12:35 --> Language Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Loader Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Helper loaded: url_helper
+DEBUG - 2011-03-30 23:12:35 --> Helper loaded: file_helper
+DEBUG - 2011-03-30 23:12:35 --> Helper loaded: download_helper
+DEBUG - 2011-03-30 23:12:35 --> Helper loaded: form_helper
+DEBUG - 2011-03-30 23:12:35 --> Helper loaded: html_helper
+DEBUG - 2011-03-30 23:12:35 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-30 23:12:35 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-30 23:12:35 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-30 23:12:35 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-30 23:12:35 --> Database Driver Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Email Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Session Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Helper loaded: string_helper
+DEBUG - 2011-03-30 23:12:35 --> Session routines successfully run
+DEBUG - 2011-03-30 23:12:35 --> Table Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Controller Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Form Validation Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> DX Auth Initialized
+DEBUG - 2011-03-30 23:12:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-30 23:12:35 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-30 23:12:35 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-30 23:12:35 --> Pagination Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> Model Class Initialized
+DEBUG - 2011-03-30 23:12:35 --> DB Transaction Failure
+ERROR - 2011-03-30 23:12:35 --> Query error: Unknown column 'type_id' in 'where clause'
+DEBUG - 2011-03-30 23:12:35 --> Language file loaded: language/english/db_lang.php

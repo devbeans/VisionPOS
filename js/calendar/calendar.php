@@ -100,4 +100,25 @@ class DHTML_Calendar {
     function _make_js_hash($array) {
         $jstr = '';
         reset($array);
-        while (list($key, $val) = each($arr
+        while (list($key, $val) = each($array)) {
+            if (is_bool($val))
+                $val = $val ? 'true' : 'false';
+            else if (!is_numeric($val))
+                $val = '"'.$val.'"';
+            if ($jstr) $jstr .= ',';
+            $jstr .= '"' . $key . '":' . $val;
+        }
+        return $jstr;
+    }
+
+    function _make_html_attr($array) {
+        $attrstr = '';
+        reset($array);
+        while (list($key, $val) = each($array)) {
+            $attrstr .= $key . '="' . $val . '" ';
+        }
+        return $attrstr;
+    }
+};
+
+?>

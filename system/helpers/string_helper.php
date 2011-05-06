@@ -198,4 +198,76 @@ if ( ! function_exists('random_string'))
 		{
 			case 'alnum'	:
 			case 'numeric'	:
-			case 'nozero
+			case 'nozero'	:
+		
+					switch ($type)
+					{
+						case 'alnum'	:	$pool = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+							break;
+						case 'numeric'	:	$pool = '0123456789';
+							break;
+						case 'nozero'	:	$pool = '123456789';
+							break;
+					}
+
+					$str = '';
+					for ($i=0; $i < $len; $i++)
+					{
+						$str .= substr($pool, mt_rand(0, strlen($pool) -1), 1);
+					}
+					return $str;
+			  break;
+			case 'unique' : return md5(uniqid(mt_rand()));
+			  break;
+		}
+	}
+}
+
+// ------------------------------------------------------------------------
+
+/**
+ * Alternator
+ *
+ * Allows strings to be alternated.  See docs...
+ *
+ * @access	public
+ * @param	string (as many parameters as needed)
+ * @return	string
+ */	
+if ( ! function_exists('alternator'))
+{
+	function alternator()
+	{
+		static $i;	
+
+		if (func_num_args() == 0)
+		{
+			$i = 0;
+			return '';
+		}
+		$args = func_get_args();
+		return $args[($i++ % count($args))];
+	}
+}
+
+// ------------------------------------------------------------------------
+
+/**
+ * Repeater function
+ *
+ * @access	public
+ * @param	string
+ * @param	integer	number of repeats
+ * @return	string
+ */	
+if ( ! function_exists('repeater'))
+{
+	function repeater($data, $num = 1)
+	{
+		return (($num > 0) ? str_repeat($data, $num) : '');
+	} 
+}
+
+
+/* End of file string_helper.php */
+/* Location: ./system/helpers/string_helper.php */

@@ -32894,4 +32894,2146 @@ DEBUG - 2010-09-05 22:24:54 --> Form Validation Class Initialized
 DEBUG - 2010-09-05 22:24:54 --> DX Auth Initialized
 DEBUG - 2010-09-05 22:24:54 --> Session class already loaded. Second attempt ignored.
 DEBUG - 2010-09-05 22:24:54 --> Config file loaded: config/dx_auth.php
-DEBUG - 2010-09-05 22:24:54 --> 
+DEBUG - 2010-09-05 22:24:54 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 22:24:54 --> Pagination Class Initialized
+DEBUG - 2010-09-05 22:24:54 --> Final output sent to browser
+DEBUG - 2010-09-05 22:24:54 --> Total execution time: 0.0714
+DEBUG - 2010-09-05 22:27:22 --> Config Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Hooks Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 22:27:22 --> URI Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Router Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Output Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Input Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 22:27:22 --> Language Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Loader Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 22:27:22 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 22:27:22 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 22:27:22 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 22:27:22 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 22:27:22 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 22:27:22 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 22:27:22 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 22:27:22 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 22:27:22 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Email Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Session Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 22:27:22 --> Session routines successfully run
+DEBUG - 2010-09-05 22:27:22 --> Table Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Model Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Model Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Model Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Controller Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 22:27:22 --> DX Auth Initialized
+DEBUG - 2010-09-05 22:27:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 22:27:22 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 22:27:22 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 22:27:22 --> Pagination Class Initialized
+ERROR - 2010-09-05 22:27:22 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:183) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:01:36 --> Config Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:01:36 --> URI Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Router Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Output Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Input Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:01:36 --> Language Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:01:36 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:01:36 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:01:36 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:01:36 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:01:36 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:01:36 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:01:36 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:01:36 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:01:36 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Email Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Session Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:01:36 --> Session routines successfully run
+DEBUG - 2010-09-05 23:01:36 --> Table Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:01:36 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:01:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:01:36 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:01:36 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:01:36 --> Pagination Class Initialized
+ERROR - 2010-09-05 23:01:36 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:183) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:01:41 --> Config Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:01:41 --> URI Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Router Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Output Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Input Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:01:41 --> Language Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:01:41 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:01:41 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:01:41 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:01:41 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:01:41 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:01:41 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:01:41 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:01:41 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:01:41 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Email Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Session Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:01:41 --> Session routines successfully run
+DEBUG - 2010-09-05 23:01:41 --> Table Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:01:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:01:41 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:01:41 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:01:41 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:41 --> Model Class Initialized
+ERROR - 2010-09-05 23:01:42 --> Severity: Warning  --> number_format() expects parameter 1 to be double, string given /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php 166
+DEBUG - 2010-09-05 23:01:42 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-05 23:01:42 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-05 23:01:42 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/invoice/create.php
+DEBUG - 2010-09-05 23:01:42 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-05 23:01:42 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-05 23:01:42 --> Final output sent to browser
+DEBUG - 2010-09-05 23:01:42 --> Total execution time: 0.1045
+DEBUG - 2010-09-05 23:01:50 --> Config Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:01:50 --> URI Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Router Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Output Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Input Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:01:50 --> Language Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:01:50 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:01:50 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:01:50 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:01:50 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Email Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Session Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:01:50 --> Session routines successfully run
+DEBUG - 2010-09-05 23:01:50 --> Table Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:01:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:01:50 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:01:50 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:01:50 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Config Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:01:50 --> URI Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Router Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Output Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Input Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:01:50 --> Language Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:01:50 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:01:50 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:01:50 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:01:50 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Email Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Session Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:01:50 --> Session routines successfully run
+DEBUG - 2010-09-05 23:01:50 --> Table Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Model Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:01:50 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:01:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:01:50 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:01:50 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:01:50 --> Pagination Class Initialized
+ERROR - 2010-09-05 23:01:50 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:183) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:03:33 --> Config Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:03:33 --> URI Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Router Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Output Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Input Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:03:33 --> Language Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:03:33 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:03:33 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:03:33 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:03:33 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:03:33 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:03:33 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:03:33 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:03:33 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:03:33 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Email Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Session Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:03:33 --> Session routines successfully run
+DEBUG - 2010-09-05 23:03:33 --> Table Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Model Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Model Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Model Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:03:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:03:33 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:03:33 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:03:33 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:03:33 --> Model Class Initialized
+ERROR - 2010-09-05 23:03:33 --> Severity: Notice  --> Undefined variable: incoice_id /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/models/minvoices.php 33
+DEBUG - 2010-09-05 23:03:33 --> DB Transaction Failure
+ERROR - 2010-09-05 23:03:33 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3
+DEBUG - 2010-09-05 23:03:33 --> Language file loaded: language/english/db_lang.php
+ERROR - 2010-09-05 23:03:33 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/libraries/Exceptions.php:166) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/codeigniter/Common.php 360
+DEBUG - 2010-09-05 23:03:47 --> Config Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:03:47 --> URI Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Router Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Output Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Input Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:03:47 --> Language Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:03:47 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:03:47 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:03:47 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:03:47 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:03:47 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:03:47 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:03:47 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:03:47 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:03:47 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Email Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Session Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:03:47 --> Session routines successfully run
+DEBUG - 2010-09-05 23:03:47 --> Table Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Model Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Model Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Model Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:03:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:03:47 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:03:47 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:03:47 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:03:47 --> Model Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Config Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:04:04 --> URI Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Router Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Output Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Input Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:04:04 --> Language Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:04:04 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:04:04 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:04:04 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:04:04 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:04:04 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:04:04 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:04:04 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:04:04 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:04:04 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Email Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Session Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:04:04 --> Session routines successfully run
+DEBUG - 2010-09-05 23:04:04 --> Table Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Model Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Model Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Model Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:04:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:04:04 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:04:04 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:04:04 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:04:04 --> Model Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Config Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:04:18 --> URI Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Router Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Output Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Input Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:04:18 --> Language Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:04:18 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:04:18 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:04:18 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:04:18 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:04:18 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:04:18 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:04:18 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:04:18 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:04:18 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Email Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Session Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:04:18 --> Session routines successfully run
+DEBUG - 2010-09-05 23:04:18 --> Table Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Model Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Model Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Model Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:04:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:04:18 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:04:18 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:04:18 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:04:18 --> Model Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Config Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:08:27 --> URI Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Router Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Output Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Input Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:08:27 --> Language Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:08:27 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:08:27 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:08:27 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:08:27 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:08:27 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:08:27 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:08:27 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:08:27 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:08:27 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Email Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Session Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:08:27 --> Session routines successfully run
+DEBUG - 2010-09-05 23:08:27 --> Table Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Model Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Model Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Model Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:08:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:08:27 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:08:27 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:08:27 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:08:27 --> Model Class Initialized
+ERROR - 2010-09-05 23:08:27 --> Severity: Notice  --> Undefined variable: pdf /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php 187
+DEBUG - 2010-09-05 23:16:11 --> Config Class Initialized
+DEBUG - 2010-09-05 23:16:11 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:16:11 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:16:11 --> URI Class Initialized
+DEBUG - 2010-09-05 23:16:11 --> Router Class Initialized
+DEBUG - 2010-09-05 23:16:11 --> Output Class Initialized
+DEBUG - 2010-09-05 23:16:11 --> Input Class Initialized
+DEBUG - 2010-09-05 23:16:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:16:11 --> Language Class Initialized
+DEBUG - 2010-09-05 23:18:17 --> Config Class Initialized
+DEBUG - 2010-09-05 23:18:17 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:18:17 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:18:17 --> URI Class Initialized
+DEBUG - 2010-09-05 23:18:17 --> Router Class Initialized
+DEBUG - 2010-09-05 23:18:17 --> Output Class Initialized
+DEBUG - 2010-09-05 23:18:17 --> Input Class Initialized
+DEBUG - 2010-09-05 23:18:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:18:17 --> Language Class Initialized
+DEBUG - 2010-09-05 23:18:39 --> Config Class Initialized
+DEBUG - 2010-09-05 23:18:39 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:18:39 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:18:39 --> URI Class Initialized
+DEBUG - 2010-09-05 23:18:39 --> Router Class Initialized
+DEBUG - 2010-09-05 23:18:39 --> Output Class Initialized
+DEBUG - 2010-09-05 23:18:39 --> Input Class Initialized
+DEBUG - 2010-09-05 23:18:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:18:39 --> Language Class Initialized
+DEBUG - 2010-09-05 23:18:47 --> Config Class Initialized
+DEBUG - 2010-09-05 23:18:47 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:18:47 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:18:47 --> URI Class Initialized
+DEBUG - 2010-09-05 23:18:47 --> Router Class Initialized
+DEBUG - 2010-09-05 23:18:47 --> Output Class Initialized
+DEBUG - 2010-09-05 23:18:47 --> Input Class Initialized
+DEBUG - 2010-09-05 23:18:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:18:47 --> Language Class Initialized
+DEBUG - 2010-09-05 23:19:08 --> Config Class Initialized
+DEBUG - 2010-09-05 23:19:08 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:19:08 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:19:08 --> URI Class Initialized
+DEBUG - 2010-09-05 23:19:08 --> Router Class Initialized
+DEBUG - 2010-09-05 23:19:08 --> Output Class Initialized
+DEBUG - 2010-09-05 23:19:08 --> Input Class Initialized
+DEBUG - 2010-09-05 23:19:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:19:08 --> Language Class Initialized
+DEBUG - 2010-09-05 23:19:11 --> Config Class Initialized
+DEBUG - 2010-09-05 23:19:11 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:19:11 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:19:11 --> URI Class Initialized
+DEBUG - 2010-09-05 23:19:11 --> Router Class Initialized
+DEBUG - 2010-09-05 23:19:11 --> Output Class Initialized
+DEBUG - 2010-09-05 23:19:11 --> Input Class Initialized
+DEBUG - 2010-09-05 23:19:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:19:11 --> Language Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Config Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:19:21 --> URI Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Router Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Output Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Input Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:19:21 --> Language Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:19:21 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:19:21 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:19:21 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:19:21 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:19:21 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:19:21 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:19:21 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:19:21 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:19:21 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Email Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Session Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:19:21 --> Session routines successfully run
+DEBUG - 2010-09-05 23:19:21 --> Table Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:19:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:19:21 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:19:21 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:19:21 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-05 23:19:21 --> Helper loaded: array_helper
+DEBUG - 2010-09-05 23:19:21 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:21 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-05 23:19:21 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-05 23:19:21 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-05 23:19:21 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-05 23:19:21 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-05 23:19:21 --> Final output sent to browser
+DEBUG - 2010-09-05 23:19:21 --> Total execution time: 0.0894
+DEBUG - 2010-09-05 23:19:23 --> Config Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:19:23 --> URI Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Router Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Output Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Input Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:19:23 --> Language Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:19:23 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:19:23 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:19:23 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:19:23 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:19:23 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:19:23 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:19:23 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:19:23 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:19:23 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Email Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Session Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:19:23 --> Session routines successfully run
+DEBUG - 2010-09-05 23:19:23 --> Table Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:19:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:19:23 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:19:23 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:19:23 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-05 23:19:23 --> Helper loaded: array_helper
+DEBUG - 2010-09-05 23:19:23 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-05 23:19:23 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-05 23:19:23 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-05 23:19:23 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-05 23:19:23 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-05 23:19:23 --> Model Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Config Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:19:23 --> URI Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Router Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Output Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Input Class Initialized
+DEBUG - 2010-09-05 23:19:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:19:23 --> Language Class Initialized
+DEBUG - 2010-09-05 23:19:39 --> Config Class Initialized
+DEBUG - 2010-09-05 23:19:39 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:19:39 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:19:39 --> URI Class Initialized
+DEBUG - 2010-09-05 23:19:39 --> Router Class Initialized
+DEBUG - 2010-09-05 23:19:39 --> Output Class Initialized
+DEBUG - 2010-09-05 23:19:39 --> Input Class Initialized
+DEBUG - 2010-09-05 23:19:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:19:39 --> Language Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Config Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:20:12 --> URI Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Router Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Output Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Input Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:20:12 --> Language Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:20:12 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:20:12 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:20:12 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:20:12 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:20:12 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:20:12 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:20:12 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:20:12 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:20:12 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Email Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Session Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:20:12 --> Session routines successfully run
+DEBUG - 2010-09-05 23:20:12 --> Table Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:20:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:20:12 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:20:12 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:20:12 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:12 --> Model Class Initialized
+ERROR - 2010-09-05 23:20:12 --> Severity: Warning  --> number_format() expects parameter 1 to be double, string given /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php 166
+DEBUG - 2010-09-05 23:20:12 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-05 23:20:12 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-05 23:20:12 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/invoice/create.php
+DEBUG - 2010-09-05 23:20:12 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-05 23:20:12 --> File loaded: /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-05 23:20:12 --> Final output sent to browser
+DEBUG - 2010-09-05 23:20:12 --> Total execution time: 0.0491
+DEBUG - 2010-09-05 23:20:15 --> Config Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:20:15 --> URI Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Router Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Output Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Input Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:20:15 --> Language Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:20:15 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:20:15 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:20:15 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:20:15 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Email Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Session Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:20:15 --> Session routines successfully run
+DEBUG - 2010-09-05 23:20:15 --> Table Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:20:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:20:15 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:20:15 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:20:15 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Config Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:20:15 --> URI Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Router Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Output Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Input Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:20:15 --> Language Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:20:15 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:20:15 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:20:15 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:20:15 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Email Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Session Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:20:15 --> Session routines successfully run
+DEBUG - 2010-09-05 23:20:15 --> Table Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:20:15 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:20:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:20:15 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:20:15 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:20:15 --> Pagination Class Initialized
+ERROR - 2010-09-05 23:20:15 --> Severity: Notice  --> Undefined variable: invoice /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php 185
+DEBUG - 2010-09-05 23:20:15 --> Final output sent to browser
+DEBUG - 2010-09-05 23:20:15 --> Total execution time: 0.0235
+DEBUG - 2010-09-05 23:20:34 --> Config Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:20:34 --> URI Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Router Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Output Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Input Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:20:34 --> Language Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:20:34 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:20:34 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:20:34 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:20:34 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:20:34 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:20:34 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:20:34 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:20:34 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:20:34 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Email Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Session Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:20:34 --> Session routines successfully run
+DEBUG - 2010-09-05 23:20:34 --> Table Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:20:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:20:34 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:20:34 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:20:34 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:34 --> Final output sent to browser
+DEBUG - 2010-09-05 23:20:34 --> Total execution time: 0.0554
+DEBUG - 2010-09-05 23:20:41 --> Config Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:20:41 --> URI Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Router Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Output Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Input Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:20:41 --> Language Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:20:41 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:20:41 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:20:41 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:20:41 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:20:41 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:20:41 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:20:41 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:20:41 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:20:41 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Email Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Session Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:20:41 --> Session routines successfully run
+DEBUG - 2010-09-05 23:20:41 --> Table Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:20:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:20:41 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:20:41 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:20:41 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:20:41 --> Final output sent to browser
+DEBUG - 2010-09-05 23:20:41 --> Total execution time: 0.0730
+DEBUG - 2010-09-05 23:20:54 --> Config Class Initialized
+DEBUG - 2010-09-05 23:20:54 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:20:54 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:20:54 --> URI Class Initialized
+DEBUG - 2010-09-05 23:20:54 --> Router Class Initialized
+DEBUG - 2010-09-05 23:20:54 --> Output Class Initialized
+DEBUG - 2010-09-05 23:20:54 --> Input Class Initialized
+DEBUG - 2010-09-05 23:20:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:20:54 --> Language Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Config Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:21:05 --> URI Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Router Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Output Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Input Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:21:05 --> Language Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:21:05 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:21:05 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:21:05 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:21:05 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:21:05 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:21:05 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:21:05 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:21:05 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:21:05 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Email Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Session Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:21:05 --> Session routines successfully run
+DEBUG - 2010-09-05 23:21:05 --> Table Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Model Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Model Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Model Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:21:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:21:05 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:21:05 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:21:05 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Model Class Initialized
+DEBUG - 2010-09-05 23:21:05 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:21:05 --> Severity: Notice  --> Undefined index: customer_name /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php 191
+ERROR - 2010-09-05 23:21:05 --> Severity: Notice  --> Undefined index: address1 /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php 191
+ERROR - 2010-09-05 23:21:05 --> Severity: Notice  --> Undefined index: address3 /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php 191
+ERROR - 2010-09-05 23:21:05 --> Severity: Notice  --> Undefined variable: i /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php 191
+ERROR - 2010-09-05 23:21:05 --> Severity: Notice  --> Undefined variable: i /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php 192
+DEBUG - 2010-09-05 23:21:05 --> Final output sent to browser
+DEBUG - 2010-09-05 23:21:05 --> Total execution time: 0.0639
+DEBUG - 2010-09-05 23:21:32 --> Config Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:21:32 --> URI Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Router Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Output Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Input Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:21:32 --> Language Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:21:32 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:21:32 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:21:32 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:21:32 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:21:32 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:21:32 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:21:32 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:21:32 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:21:32 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Email Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Session Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:21:32 --> Session routines successfully run
+DEBUG - 2010-09-05 23:21:32 --> Table Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Model Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Model Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Model Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:21:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:21:32 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:21:32 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:21:32 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Model Class Initialized
+DEBUG - 2010-09-05 23:21:32 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:21:32 --> Severity: Notice  --> Undefined variable: i /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php 191
+ERROR - 2010-09-05 23:21:32 --> Severity: Notice  --> Undefined variable: i /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php 192
+DEBUG - 2010-09-05 23:21:32 --> Final output sent to browser
+DEBUG - 2010-09-05 23:21:32 --> Total execution time: 0.0526
+DEBUG - 2010-09-05 23:21:39 --> Config Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:21:39 --> URI Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Router Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Output Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Input Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:21:39 --> Language Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:21:39 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:21:39 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:21:39 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:21:39 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:21:39 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:21:39 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:21:39 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:21:39 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:21:39 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Email Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Session Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:21:39 --> Session routines successfully run
+DEBUG - 2010-09-05 23:21:39 --> Table Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Model Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Model Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Model Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:21:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:21:39 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:21:39 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:21:39 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Model Class Initialized
+DEBUG - 2010-09-05 23:21:39 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:21:39 --> Severity: Notice  --> Undefined variable: i /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php 191
+DEBUG - 2010-09-05 23:21:39 --> Final output sent to browser
+DEBUG - 2010-09-05 23:21:39 --> Total execution time: 0.0475
+DEBUG - 2010-09-05 23:22:00 --> Config Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:22:00 --> URI Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Router Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Output Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Input Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:22:00 --> Language Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:22:00 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:22:00 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:22:00 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:22:00 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:22:00 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:22:00 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:22:00 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:22:00 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:22:00 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Email Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Session Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:22:00 --> Session routines successfully run
+DEBUG - 2010-09-05 23:22:00 --> Table Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:22:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:22:00 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:22:00 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:22:00 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:00 --> Helper loaded: pdf_helper
+DEBUG - 2010-09-05 23:22:00 --> Final output sent to browser
+DEBUG - 2010-09-05 23:22:00 --> Total execution time: 0.1000
+DEBUG - 2010-09-05 23:22:06 --> Config Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:22:06 --> URI Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Router Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Output Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Input Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:22:06 --> Language Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:22:06 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:22:06 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:22:06 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:22:06 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:22:06 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:22:06 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:22:06 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:22:06 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:22:06 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Email Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Session Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:22:06 --> Session routines successfully run
+DEBUG - 2010-09-05 23:22:06 --> Table Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:22:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:22:06 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:22:06 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:22:06 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:06 --> Helper loaded: pdf_helper
+DEBUG - 2010-09-05 23:22:06 --> Final output sent to browser
+DEBUG - 2010-09-05 23:22:06 --> Total execution time: 0.0558
+DEBUG - 2010-09-05 23:22:13 --> Config Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:22:13 --> URI Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Router Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Output Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Input Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:22:13 --> Language Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:22:13 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:22:13 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:22:13 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:22:13 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:22:13 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:22:13 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:22:13 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:22:13 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:22:13 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Email Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Session Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:22:13 --> Session routines successfully run
+DEBUG - 2010-09-05 23:22:13 --> Table Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:22:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:22:13 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:22:13 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:22:13 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:13 --> Helper loaded: pdf_helper
+DEBUG - 2010-09-05 23:22:13 --> Final output sent to browser
+DEBUG - 2010-09-05 23:22:13 --> Total execution time: 0.0460
+DEBUG - 2010-09-05 23:22:17 --> Config Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:22:17 --> URI Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Router Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Output Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Input Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:22:17 --> Language Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:22:17 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:22:17 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:22:17 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:22:17 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:22:17 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:22:17 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:22:17 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:22:17 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:22:17 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Email Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Session Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:22:17 --> Session routines successfully run
+DEBUG - 2010-09-05 23:22:17 --> Table Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:22:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:22:17 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:22:17 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:22:17 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:17 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:22:17 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:185) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1916
+ERROR - 2010-09-05 23:22:17 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:185) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1917
+ERROR - 2010-09-05 23:22:17 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:185) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1919
+DEBUG - 2010-09-05 23:22:17 --> Final output sent to browser
+DEBUG - 2010-09-05 23:22:17 --> Total execution time: 0.0482
+DEBUG - 2010-09-05 23:22:51 --> Config Class Initialized
+DEBUG - 2010-09-05 23:22:51 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:22:51 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:22:51 --> URI Class Initialized
+DEBUG - 2010-09-05 23:22:51 --> Router Class Initialized
+DEBUG - 2010-09-05 23:22:51 --> Output Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Input Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:22:52 --> Language Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:22:52 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:22:52 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:22:52 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:22:52 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:22:52 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:22:52 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:22:52 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:22:52 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:22:52 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Email Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Session Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:22:52 --> Session routines successfully run
+DEBUG - 2010-09-05 23:22:52 --> Table Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:22:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:22:52 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:22:52 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:22:52 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Model Class Initialized
+DEBUG - 2010-09-05 23:22:52 --> Helper loaded: pdf_helper
+DEBUG - 2010-09-05 23:22:52 --> Final output sent to browser
+DEBUG - 2010-09-05 23:22:52 --> Total execution time: 0.0738
+DEBUG - 2010-09-05 23:25:13 --> Config Class Initialized
+DEBUG - 2010-09-05 23:25:13 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:25:13 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:25:13 --> URI Class Initialized
+DEBUG - 2010-09-05 23:25:13 --> Router Class Initialized
+DEBUG - 2010-09-05 23:25:13 --> Output Class Initialized
+DEBUG - 2010-09-05 23:25:13 --> Input Class Initialized
+DEBUG - 2010-09-05 23:25:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:25:13 --> Language Class Initialized
+DEBUG - 2010-09-05 23:25:20 --> Config Class Initialized
+DEBUG - 2010-09-05 23:25:20 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:25:20 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:25:20 --> URI Class Initialized
+DEBUG - 2010-09-05 23:25:20 --> Router Class Initialized
+DEBUG - 2010-09-05 23:25:20 --> Output Class Initialized
+DEBUG - 2010-09-05 23:25:20 --> Input Class Initialized
+DEBUG - 2010-09-05 23:25:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:25:20 --> Language Class Initialized
+DEBUG - 2010-09-05 23:25:37 --> Config Class Initialized
+DEBUG - 2010-09-05 23:25:37 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:25:37 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:25:37 --> URI Class Initialized
+DEBUG - 2010-09-05 23:25:37 --> Router Class Initialized
+DEBUG - 2010-09-05 23:25:37 --> Output Class Initialized
+DEBUG - 2010-09-05 23:25:37 --> Input Class Initialized
+DEBUG - 2010-09-05 23:25:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:25:37 --> Language Class Initialized
+DEBUG - 2010-09-05 23:25:42 --> Config Class Initialized
+DEBUG - 2010-09-05 23:25:42 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:25:42 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:25:42 --> URI Class Initialized
+DEBUG - 2010-09-05 23:25:42 --> Router Class Initialized
+DEBUG - 2010-09-05 23:25:42 --> Output Class Initialized
+DEBUG - 2010-09-05 23:25:42 --> Input Class Initialized
+DEBUG - 2010-09-05 23:25:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:25:42 --> Language Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Config Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:25:52 --> URI Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Router Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Output Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Input Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:25:52 --> Language Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:25:52 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:25:52 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:25:52 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:25:52 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Email Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Session Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:25:52 --> Session routines successfully run
+DEBUG - 2010-09-05 23:25:52 --> Table Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Model Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Model Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Model Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:25:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:25:52 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:25:52 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:25:52 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Model Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Config Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:25:52 --> URI Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Router Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Output Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Input Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:25:52 --> Language Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:25:52 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:25:52 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:25:52 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:25:52 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:25:52 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:25:53 --> Email Class Initialized
+DEBUG - 2010-09-05 23:25:53 --> Session Class Initialized
+DEBUG - 2010-09-05 23:25:53 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:25:53 --> Session routines successfully run
+DEBUG - 2010-09-05 23:25:53 --> Table Class Initialized
+DEBUG - 2010-09-05 23:25:53 --> Model Class Initialized
+DEBUG - 2010-09-05 23:25:53 --> Model Class Initialized
+DEBUG - 2010-09-05 23:25:53 --> Model Class Initialized
+DEBUG - 2010-09-05 23:25:53 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:25:53 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:25:53 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:25:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:25:53 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:25:53 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:25:53 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:25:53 --> Model Class Initialized
+DEBUG - 2010-09-05 23:25:53 --> Helper loaded: pdf_helper
+DEBUG - 2010-09-05 23:25:53 --> Final output sent to browser
+DEBUG - 2010-09-05 23:25:53 --> Total execution time: 0.1514
+DEBUG - 2010-09-05 23:26:59 --> Config Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:26:59 --> URI Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Router Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Output Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Input Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:26:59 --> Language Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:26:59 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:26:59 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:26:59 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:26:59 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:26:59 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:26:59 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:26:59 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:26:59 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:26:59 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Email Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Session Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:26:59 --> Session routines successfully run
+DEBUG - 2010-09-05 23:26:59 --> Table Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Model Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Model Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Model Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:26:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:26:59 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:26:59 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:26:59 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Model Class Initialized
+DEBUG - 2010-09-05 23:26:59 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:26:59 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:40:16 --> Config Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:40:16 --> URI Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Router Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Output Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Input Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:40:16 --> Language Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:40:16 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:40:16 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:40:16 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:40:16 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:40:16 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:40:16 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:40:16 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:40:16 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:40:16 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Email Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Session Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:40:16 --> Session routines successfully run
+DEBUG - 2010-09-05 23:40:16 --> Table Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Model Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Model Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Model Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:40:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:40:16 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:40:16 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:40:16 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Model Class Initialized
+DEBUG - 2010-09-05 23:40:16 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:40:16 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:40:35 --> Config Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:40:35 --> URI Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Router Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Output Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Input Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:40:35 --> Language Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:40:35 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:40:35 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:40:35 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:40:35 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:40:35 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:40:35 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:40:35 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:40:35 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:40:35 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Email Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Session Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:40:35 --> Session routines successfully run
+DEBUG - 2010-09-05 23:40:35 --> Table Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Model Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Model Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Model Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:40:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:40:35 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:40:35 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:40:35 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Model Class Initialized
+DEBUG - 2010-09-05 23:40:35 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:40:35 --> Severity: Warning  --> Missing argument 2 for prep_pdf_invoice(), called in /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php on line 200 and defined /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/helpers/pdf_helper.php 57
+ERROR - 2010-09-05 23:40:35 --> Severity: Notice  --> Undefined variable: company_division /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/helpers/pdf_helper.php 77
+ERROR - 2010-09-05 23:40:35 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/libraries/Exceptions.php:166) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1916
+ERROR - 2010-09-05 23:40:35 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/libraries/Exceptions.php:166) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1917
+ERROR - 2010-09-05 23:40:35 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/libraries/Exceptions.php:166) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1919
+ERROR - 2010-09-05 23:40:35 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/libraries/Exceptions.php:166) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:41:59 --> Config Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:41:59 --> URI Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Router Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Output Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Input Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:41:59 --> Language Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:41:59 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:41:59 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:41:59 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:41:59 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:41:59 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:41:59 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:41:59 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:41:59 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:41:59 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Email Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Session Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:41:59 --> Session routines successfully run
+DEBUG - 2010-09-05 23:41:59 --> Table Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Model Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Model Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Model Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:41:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:41:59 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:41:59 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:41:59 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Model Class Initialized
+DEBUG - 2010-09-05 23:41:59 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:41:59 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:46:46 --> Config Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:46:46 --> URI Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Router Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Output Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Input Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:46:46 --> Language Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:46:46 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:46:46 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:46:46 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:46:46 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:46:46 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:46:46 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:46:46 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:46:46 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:46:46 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Email Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Session Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:46:46 --> Session routines successfully run
+DEBUG - 2010-09-05 23:46:46 --> Table Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Model Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Model Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Model Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:46:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:46:46 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:46:46 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:46:46 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Model Class Initialized
+DEBUG - 2010-09-05 23:46:46 --> Helper loaded: pdf_helper
+DEBUG - 2010-09-05 23:47:15 --> Config Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:47:15 --> URI Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Router Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Output Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Input Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:47:15 --> Language Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:47:15 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:47:15 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:47:15 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:47:15 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:47:15 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:47:15 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:47:15 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:47:15 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:47:15 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Email Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Session Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:47:15 --> Session routines successfully run
+DEBUG - 2010-09-05 23:47:15 --> Table Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Model Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Model Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Model Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:47:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:47:15 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:47:15 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:47:15 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Model Class Initialized
+DEBUG - 2010-09-05 23:47:15 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:47:15 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:47:46 --> Config Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:47:46 --> URI Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Router Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Output Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Input Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:47:46 --> Language Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:47:46 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:47:46 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:47:46 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:47:46 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:47:46 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:47:46 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:47:46 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:47:46 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:47:46 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Email Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Session Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:47:46 --> Session routines successfully run
+DEBUG - 2010-09-05 23:47:46 --> Table Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Model Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Model Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Model Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:47:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:47:46 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:47:46 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:47:46 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Model Class Initialized
+DEBUG - 2010-09-05 23:47:46 --> Helper loaded: pdf_helper
+DEBUG - 2010-09-05 23:48:00 --> Config Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:48:00 --> URI Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Router Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Output Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Input Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:48:00 --> Language Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:48:00 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:48:00 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:48:00 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:48:00 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:48:00 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:48:00 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:48:00 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:48:00 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:48:00 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Email Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Session Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:48:00 --> Session routines successfully run
+DEBUG - 2010-09-05 23:48:00 --> Table Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:48:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:48:00 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:48:00 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:48:00 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:00 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:48:00 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:48:06 --> Config Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:48:06 --> URI Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Router Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Output Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Input Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:48:06 --> Language Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:48:06 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:48:06 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:48:06 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:48:06 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:48:06 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:48:06 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:48:06 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:48:06 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:48:06 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Email Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Session Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:48:06 --> Session routines successfully run
+DEBUG - 2010-09-05 23:48:06 --> Table Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:48:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:48:06 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:48:06 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:48:06 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:06 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:48:06 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:48:14 --> Config Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:48:14 --> URI Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Router Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Output Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Input Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:48:14 --> Language Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:48:14 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:48:14 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:48:14 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:48:14 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:48:14 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:48:14 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:48:14 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:48:14 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:48:14 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Email Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Session Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:48:14 --> Session routines successfully run
+DEBUG - 2010-09-05 23:48:14 --> Table Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:48:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:48:14 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:48:14 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:48:14 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:14 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:48:14 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:48:21 --> Config Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:48:21 --> URI Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Router Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Output Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Input Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:48:21 --> Language Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:48:21 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:48:21 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:48:21 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:48:21 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:48:21 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:48:21 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:48:21 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:48:21 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:48:21 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Email Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Session Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:48:21 --> Session routines successfully run
+DEBUG - 2010-09-05 23:48:21 --> Table Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:48:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:48:21 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:48:21 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:48:21 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:21 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:48:21 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:48:29 --> Config Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:48:29 --> URI Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Router Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Output Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Input Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:48:29 --> Language Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:48:29 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:48:29 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:48:29 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:48:29 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:48:29 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:48:29 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:48:29 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:48:29 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:48:29 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Email Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Session Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:48:29 --> Session routines successfully run
+DEBUG - 2010-09-05 23:48:29 --> Table Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:48:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:48:29 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:48:29 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:48:29 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:29 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:48:29 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:48:36 --> Config Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:48:36 --> URI Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Router Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Output Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Input Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:48:36 --> Language Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:48:36 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:48:36 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:48:36 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:48:36 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:48:36 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:48:36 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:48:36 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:48:36 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:48:36 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Email Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Session Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:48:36 --> Session routines successfully run
+DEBUG - 2010-09-05 23:48:36 --> Table Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:48:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:48:36 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:48:36 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:48:36 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:36 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:48:36 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:48:41 --> Config Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:48:41 --> URI Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Router Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Output Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Input Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:48:41 --> Language Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:48:41 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:48:41 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:48:41 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:48:41 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:48:41 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:48:41 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:48:41 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:48:41 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:48:41 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Email Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Session Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:48:41 --> Session routines successfully run
+DEBUG - 2010-09-05 23:48:41 --> Table Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:48:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:48:41 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:48:41 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:48:41 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:48:41 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:48:41 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:50:34 --> Config Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:50:34 --> URI Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Router Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Output Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Input Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:50:34 --> Language Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:50:34 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:50:34 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:50:34 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:50:34 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:50:34 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:50:34 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:50:34 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:50:34 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:50:34 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Email Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Session Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:50:34 --> Session routines successfully run
+DEBUG - 2010-09-05 23:50:34 --> Table Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Model Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Model Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Model Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:50:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:50:34 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:50:34 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:50:34 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Model Class Initialized
+DEBUG - 2010-09-05 23:50:34 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:50:34 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:50:49 --> Config Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:50:49 --> URI Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Router Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Output Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Input Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:50:49 --> Language Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:50:49 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:50:49 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:50:49 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:50:49 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:50:49 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:50:49 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:50:49 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:50:49 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:50:49 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Email Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Session Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:50:49 --> Session routines successfully run
+DEBUG - 2010-09-05 23:50:49 --> Table Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Model Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Model Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Model Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:50:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:50:49 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:50:49 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:50:49 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Model Class Initialized
+DEBUG - 2010-09-05 23:50:49 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:50:49 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:51:53 --> Config Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:51:53 --> URI Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Router Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Output Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Input Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:51:53 --> Language Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:51:53 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:51:53 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:51:53 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:51:53 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:51:53 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:51:53 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:51:53 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:51:53 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:51:53 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Email Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Session Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:51:53 --> Session routines successfully run
+DEBUG - 2010-09-05 23:51:53 --> Table Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Model Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Model Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Model Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:51:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:51:53 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:51:53 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:51:53 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Model Class Initialized
+DEBUG - 2010-09-05 23:51:53 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:51:53 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:195) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1916
+ERROR - 2010-09-05 23:51:53 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:195) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1917
+ERROR - 2010-09-05 23:51:53 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:195) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1919
+ERROR - 2010-09-05 23:51:53 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:195) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:52:14 --> Config Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:52:14 --> URI Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Router Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Output Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Input Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:52:14 --> Language Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:52:14 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:52:14 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:52:14 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:52:14 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:52:14 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:52:14 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:52:14 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:52:14 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:52:14 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Email Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Session Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:52:14 --> Session routines successfully run
+DEBUG - 2010-09-05 23:52:14 --> Table Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:52:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:52:14 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:52:14 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:52:14 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:14 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:52:14 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:52:36 --> Config Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:52:36 --> URI Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Router Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Output Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Input Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:52:36 --> Language Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:52:36 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:52:36 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:52:36 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:52:36 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:52:36 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:52:36 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:52:36 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:52:36 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:52:36 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Email Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Session Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:52:36 --> Session routines successfully run
+DEBUG - 2010-09-05 23:52:36 --> Table Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:52:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:52:36 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:52:36 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:52:36 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:36 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:52:36 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:52:41 --> Config Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:52:41 --> URI Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Router Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Output Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Input Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:52:41 --> Language Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:52:41 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:52:41 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:52:41 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:52:41 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:52:41 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:52:41 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:52:41 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:52:41 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:52:41 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Email Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Session Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:52:41 --> Session routines successfully run
+DEBUG - 2010-09-05 23:52:41 --> Table Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:52:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:52:41 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:52:41 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:52:41 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:41 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:52:41 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:195) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1916
+ERROR - 2010-09-05 23:52:41 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:195) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1917
+ERROR - 2010-09-05 23:52:41 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:195) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1919
+ERROR - 2010-09-05 23:52:41 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:195) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:52:58 --> Config Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:52:58 --> URI Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Router Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Output Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Input Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:52:58 --> Language Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:52:58 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:52:58 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:52:58 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:52:58 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:52:58 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:52:58 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:52:58 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:52:58 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:52:58 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Email Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Session Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:52:58 --> Session routines successfully run
+DEBUG - 2010-09-05 23:52:58 --> Table Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:52:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:52:58 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:52:58 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:52:58 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Model Class Initialized
+DEBUG - 2010-09-05 23:52:58 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:52:58 --> Severity: Warning  --> explode() expects parameter 2 to be string, array given /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/Cezpdf.php 1263
+ERROR - 2010-09-05 23:52:58 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/Cezpdf.php 1264
+ERROR - 2010-09-05 23:52:58 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/libraries/Exceptions.php:166) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1916
+ERROR - 2010-09-05 23:52:58 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/libraries/Exceptions.php:166) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1917
+ERROR - 2010-09-05 23:52:58 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/libraries/Exceptions.php:166) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1919
+ERROR - 2010-09-05 23:52:58 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/libraries/Exceptions.php:166) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:53:17 --> Config Class Initialized
+DEBUG - 2010-09-05 23:53:17 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:53:17 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:53:17 --> URI Class Initialized
+DEBUG - 2010-09-05 23:53:17 --> Router Class Initialized
+DEBUG - 2010-09-05 23:53:17 --> Output Class Initialized
+DEBUG - 2010-09-05 23:53:17 --> Input Class Initialized
+DEBUG - 2010-09-05 23:53:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:53:17 --> Language Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Config Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:53:30 --> URI Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Router Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Output Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Input Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:53:30 --> Language Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:53:30 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:53:30 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:53:30 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:53:30 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:53:30 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:53:30 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:53:30 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:53:30 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:53:30 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Email Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Session Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:53:30 --> Session routines successfully run
+DEBUG - 2010-09-05 23:53:30 --> Table Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Model Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Model Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Model Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:53:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:53:30 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:53:30 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:53:30 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Model Class Initialized
+DEBUG - 2010-09-05 23:53:30 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:53:30 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php:1923) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:56:16 --> Config Class Initialized
+DEBUG - 2010-09-05 23:56:16 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:56:16 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:56:16 --> URI Class Initialized
+DEBUG - 2010-09-05 23:56:16 --> Router Class Initialized
+DEBUG - 2010-09-05 23:56:16 --> Output Class Initialized
+DEBUG - 2010-09-05 23:56:16 --> Input Class Initialized
+DEBUG - 2010-09-05 23:56:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:56:16 --> Language Class Initialized
+DEBUG - 2010-09-05 23:56:23 --> Config Class Initialized
+DEBUG - 2010-09-05 23:56:23 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:56:23 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:56:23 --> URI Class Initialized
+DEBUG - 2010-09-05 23:56:23 --> Router Class Initialized
+DEBUG - 2010-09-05 23:56:23 --> Output Class Initialized
+DEBUG - 2010-09-05 23:56:23 --> Input Class Initialized
+DEBUG - 2010-09-05 23:56:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:56:23 --> Language Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Config Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:56:30 --> URI Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Router Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Output Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Input Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:56:30 --> Language Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:56:30 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:56:30 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:56:30 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:56:30 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:56:30 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:56:30 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:56:30 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:56:30 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:56:30 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Email Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Session Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:56:30 --> Session routines successfully run
+DEBUG - 2010-09-05 23:56:30 --> Table Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Model Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Model Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Model Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:56:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:56:30 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:56:30 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:56:30 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Model Class Initialized
+DEBUG - 2010-09-05 23:56:30 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:56:30 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:185) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1916
+ERROR - 2010-09-05 23:56:30 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:185) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1917
+ERROR - 2010-09-05 23:56:30 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:185) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1919
+ERROR - 2010-09-05 23:56:30 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:185) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541
+DEBUG - 2010-09-05 23:58:35 --> Config Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Hooks Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Accessing site_offline hook!
+DEBUG - 2010-09-05 23:58:35 --> URI Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Router Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Output Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Input Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-05 23:58:35 --> Language Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Loader Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Helper loaded: url_helper
+DEBUG - 2010-09-05 23:58:35 --> Helper loaded: file_helper
+DEBUG - 2010-09-05 23:58:35 --> Helper loaded: download_helper
+DEBUG - 2010-09-05 23:58:35 --> Helper loaded: form_helper
+DEBUG - 2010-09-05 23:58:35 --> Helper loaded: html_helper
+DEBUG - 2010-09-05 23:58:35 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-05 23:58:35 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-05 23:58:35 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-05 23:58:35 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-05 23:58:35 --> Database Driver Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Email Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Session Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Helper loaded: string_helper
+DEBUG - 2010-09-05 23:58:35 --> Session routines successfully run
+DEBUG - 2010-09-05 23:58:35 --> Table Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Model Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Model Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Model Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Controller Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Form Validation Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> DX Auth Initialized
+DEBUG - 2010-09-05 23:58:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-05 23:58:35 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-05 23:58:35 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-05 23:58:35 --> Pagination Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Model Class Initialized
+DEBUG - 2010-09-05 23:58:35 --> Helper loaded: pdf_helper
+ERROR - 2010-09-05 23:58:35 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:185) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1916
+ERROR - 2010-09-05 23:58:35 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:185) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1917
+ERROR - 2010-09-05 23:58:35 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:185) /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/libraries/class.pdf.php 1919
+ERROR - 2010-09-05 23:58:35 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Users/doughesseltine/Dropbox/Realoptics/PILOT/application/controllers/invoice.php:185) /Users/doughesseltine/Dropbox/Realoptics/PILOT/system/helpers/url_helper.php 541

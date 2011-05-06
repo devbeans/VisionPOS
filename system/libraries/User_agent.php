@@ -429,4 +429,74 @@ class CI_User_agent {
 	 */			
 	function referrer()
 	{
-		return ( ! isset($_SERVER['HTTP_REFERER']) OR $_SERVER['HTTP_REFERE
+		return ( ! isset($_SERVER['HTTP_REFERER']) OR $_SERVER['HTTP_REFERER'] == '') ? '' : trim($_SERVER['HTTP_REFERER']);
+	}
+
+	// --------------------------------------------------------------------
+	
+	/**
+	 * Get the accepted languages
+	 *
+	 * @access	public
+	 * @return	array
+	 */			
+	function languages()
+	{
+		if (count($this->languages) == 0)
+		{
+			$this->_set_languages();
+		}
+	
+		return $this->languages;
+	}
+
+	// --------------------------------------------------------------------
+	
+	/**
+	 * Get the accepted Character Sets
+	 *
+	 * @access	public
+	 * @return	array
+	 */			
+	function charsets()
+	{
+		if (count($this->charsets) == 0)
+		{
+			$this->_set_charsets();
+		}
+	
+		return $this->charsets;
+	}
+	
+	// --------------------------------------------------------------------
+	
+	/**
+	 * Test for a particular language
+	 *
+	 * @access	public
+	 * @return	bool
+	 */			
+	function accept_lang($lang = 'en')
+	{
+		return (in_array(strtolower($lang), $this->languages(), TRUE)) ? TRUE : FALSE;
+	}
+	
+	// --------------------------------------------------------------------
+	
+	/**
+	 * Test for a particular character set
+	 *
+	 * @access	public
+	 * @return	bool
+	 */			
+	function accept_charset($charset = 'utf-8')
+	{
+		return (in_array(strtolower($charset), $this->charsets(), TRUE)) ? TRUE : FALSE;
+	}
+	
+	
+}
+
+
+/* End of file User_agent.php */
+/* Location: ./system/libraries/User_agent.php */

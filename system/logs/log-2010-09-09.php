@@ -7694,4 +7694,1429 @@ DEBUG - 2010-09-09 22:51:08 --> Model Class Initialized
 ERROR - 2010-09-09 22:51:08 --> Severity: Notice  --> Undefined variable: doctor_id /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/application/controllers/order.php 343
 DEBUG - 2010-09-09 22:51:08 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
 DEBUG - 2010-09-09 22:51:08 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
-DEBUG - 2010-09-09 22:51:08 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/
+DEBUG - 2010-09-09 22:51:08 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 22:51:08 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 22:51:08 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 22:51:08 --> Final output sent to browser
+DEBUG - 2010-09-09 22:51:08 --> Total execution time: 0.0981
+DEBUG - 2010-09-09 22:51:59 --> Config Class Initialized
+DEBUG - 2010-09-09 22:51:59 --> Hooks Class Initialized
+DEBUG - 2010-09-09 22:51:59 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 22:51:59 --> URI Class Initialized
+DEBUG - 2010-09-09 22:51:59 --> Router Class Initialized
+DEBUG - 2010-09-09 22:51:59 --> Output Class Initialized
+DEBUG - 2010-09-09 22:51:59 --> Input Class Initialized
+DEBUG - 2010-09-09 22:51:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 22:51:59 --> Language Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Config Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Hooks Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 22:52:05 --> URI Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Router Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Output Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Input Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 22:52:05 --> Language Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Loader Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 22:52:05 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 22:52:05 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 22:52:05 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 22:52:05 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 22:52:05 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 22:52:05 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 22:52:05 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 22:52:05 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 22:52:05 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Email Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Session Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 22:52:05 --> Session routines successfully run
+DEBUG - 2010-09-09 22:52:05 --> Table Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Model Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Model Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Model Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Controller Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> DX Auth Initialized
+DEBUG - 2010-09-09 22:52:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 22:52:05 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 22:52:05 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 22:52:05 --> Pagination Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Model Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 22:52:05 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 22:52:05 --> Model Class Initialized
+DEBUG - 2010-09-09 22:52:05 --> Model Class Initialized
+ERROR - 2010-09-09 22:52:05 --> Severity: Notice  --> Undefined variable: doctor_id /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/application/controllers/order.php 343
+DEBUG - 2010-09-09 22:52:05 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 22:52:05 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 22:52:05 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 22:52:05 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 22:52:05 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 22:52:05 --> Final output sent to browser
+DEBUG - 2010-09-09 22:52:05 --> Total execution time: 0.0927
+DEBUG - 2010-09-09 22:56:29 --> Config Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Hooks Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 22:56:29 --> URI Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Router Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Output Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Input Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 22:56:29 --> Language Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Loader Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 22:56:29 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 22:56:29 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 22:56:29 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 22:56:29 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 22:56:29 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 22:56:29 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 22:56:29 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 22:56:29 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 22:56:29 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Email Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Session Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 22:56:29 --> Session routines successfully run
+DEBUG - 2010-09-09 22:56:29 --> Table Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Model Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Model Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Model Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Controller Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> DX Auth Initialized
+DEBUG - 2010-09-09 22:56:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 22:56:29 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 22:56:29 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 22:56:29 --> Pagination Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Model Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 22:56:29 --> Helper loaded: array_helper
+ERROR - 2010-09-09 22:56:29 --> Severity: Notice  --> Undefined variable: content_doctors /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/application/controllers/order.php 224
+ERROR - 2010-09-09 22:56:29 --> Severity: Notice  --> Undefined variable: doctor_id /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/application/controllers/order.php 224
+ERROR - 2010-09-09 22:56:29 --> Severity: Warning  --> Invalid argument supplied for foreach() /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/helpers/form_helper.php 310
+DEBUG - 2010-09-09 22:56:29 --> Model Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> Model Class Initialized
+DEBUG - 2010-09-09 22:56:29 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 22:56:29 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+ERROR - 2010-09-09 22:56:29 --> Severity: Notice  --> Undefined variable: select_doctor /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/application/views/order/order_form.php 11
+DEBUG - 2010-09-09 22:56:29 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 22:56:29 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 22:56:29 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+ERROR - 2010-09-09 22:56:29 --> Severity: Notice  --> ob_end_clean() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete buffer. No buffer to delete. /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/libraries/Loader.php 709
+DEBUG - 2010-09-09 22:56:29 --> Final output sent to browser
+DEBUG - 2010-09-09 22:56:29 --> Total execution time: 0.1087
+DEBUG - 2010-09-09 22:57:40 --> Config Class Initialized
+DEBUG - 2010-09-09 22:57:40 --> Hooks Class Initialized
+DEBUG - 2010-09-09 22:57:44 --> Config Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Hooks Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 22:57:53 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 22:57:53 --> URI Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> URI Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Router Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Router Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Output Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Output Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Input Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 22:57:53 --> Language Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Input Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 22:57:53 --> Language Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Loader Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 22:57:53 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 22:57:53 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 22:57:53 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 22:57:53 --> Loader Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 22:57:53 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 22:57:53 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 22:57:53 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 22:57:53 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Email Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Session Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 22:57:53 --> Session routines successfully run
+DEBUG - 2010-09-09 22:57:53 --> Table Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Model Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Model Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Model Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Controller Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> DX Auth Initialized
+DEBUG - 2010-09-09 22:57:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 22:57:53 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 22:57:53 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 22:57:53 --> Pagination Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Model Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 22:57:53 --> Email Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Session Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 22:57:53 --> Session routines successfully run
+DEBUG - 2010-09-09 22:57:53 --> Table Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Model Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Model Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Model Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Controller Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Model Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> DX Auth Initialized
+DEBUG - 2010-09-09 22:57:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 22:57:53 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 22:57:53 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 22:57:53 --> Pagination Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Model Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 22:57:53 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 22:57:53 --> Model Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 22:57:53 --> Model Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 22:57:53 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 22:57:53 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 22:57:53 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 22:57:53 --> Model Class Initialized
+DEBUG - 2010-09-09 22:57:53 --> Final output sent to browser
+DEBUG - 2010-09-09 22:57:53 --> Total execution time: 12.7149
+DEBUG - 2010-09-09 22:57:53 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 22:57:53 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 22:57:53 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 22:57:53 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 22:57:53 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 22:57:53 --> Final output sent to browser
+DEBUG - 2010-09-09 22:57:53 --> Total execution time: 9.4845
+DEBUG - 2010-09-09 22:59:26 --> Config Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Hooks Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 22:59:26 --> URI Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Router Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Output Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Input Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 22:59:26 --> Language Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Loader Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 22:59:26 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 22:59:26 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 22:59:26 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 22:59:26 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 22:59:26 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 22:59:26 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 22:59:26 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 22:59:26 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 22:59:26 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Email Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Session Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 22:59:26 --> Session routines successfully run
+DEBUG - 2010-09-09 22:59:26 --> Table Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Model Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Model Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Model Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Controller Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> DX Auth Initialized
+DEBUG - 2010-09-09 22:59:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 22:59:26 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 22:59:26 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 22:59:26 --> Pagination Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Model Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 22:59:26 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 22:59:26 --> Model Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> Model Class Initialized
+DEBUG - 2010-09-09 22:59:26 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 22:59:26 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 22:59:26 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 22:59:26 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 22:59:26 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 22:59:26 --> Final output sent to browser
+DEBUG - 2010-09-09 22:59:26 --> Total execution time: 0.1461
+DEBUG - 2010-09-09 23:00:09 --> Config Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:00:09 --> URI Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Router Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Output Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Input Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:00:09 --> Language Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:00:09 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:00:09 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:00:09 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:00:09 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:00:09 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:00:09 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:00:09 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:00:09 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:00:09 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Email Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Session Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:00:09 --> Session routines successfully run
+DEBUG - 2010-09-09 23:00:09 --> Table Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Model Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Model Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Model Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:00:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:00:09 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:00:09 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:00:09 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Model Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:00:09 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:00:09 --> Model Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> Model Class Initialized
+DEBUG - 2010-09-09 23:00:09 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:00:09 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:00:09 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:00:09 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:00:09 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:00:09 --> Final output sent to browser
+DEBUG - 2010-09-09 23:00:09 --> Total execution time: 0.2991
+DEBUG - 2010-09-09 23:00:31 --> Config Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:00:31 --> URI Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Router Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Output Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Input Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:00:31 --> Language Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:00:31 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:00:31 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:00:31 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:00:31 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:00:31 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:00:31 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:00:31 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:00:31 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:00:31 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Email Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Session Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:00:31 --> Session routines successfully run
+DEBUG - 2010-09-09 23:00:31 --> Table Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Model Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Model Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Model Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:00:31 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:00:32 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:00:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:00:32 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:00:32 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:00:32 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:00:32 --> Model Class Initialized
+DEBUG - 2010-09-09 23:00:32 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:00:32 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:00:32 --> Model Class Initialized
+DEBUG - 2010-09-09 23:00:32 --> Model Class Initialized
+DEBUG - 2010-09-09 23:00:32 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:00:32 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:00:32 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:00:32 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:00:32 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:00:32 --> Final output sent to browser
+DEBUG - 2010-09-09 23:00:32 --> Total execution time: 0.0974
+DEBUG - 2010-09-09 23:01:10 --> Config Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:01:10 --> URI Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Router Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Output Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Input Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:01:10 --> Language Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:01:10 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:01:10 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:01:10 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:01:10 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:01:10 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:01:10 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:01:10 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:01:10 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:01:10 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Email Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Session Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:01:10 --> Session routines successfully run
+DEBUG - 2010-09-09 23:01:10 --> Table Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Model Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Model Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Model Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:01:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:01:10 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:01:10 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:01:10 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Model Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:01:10 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:01:10 --> Model Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> Model Class Initialized
+DEBUG - 2010-09-09 23:01:10 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:01:10 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:01:10 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:01:10 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:01:10 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:01:10 --> Final output sent to browser
+DEBUG - 2010-09-09 23:01:10 --> Total execution time: 0.2115
+DEBUG - 2010-09-09 23:03:46 --> Config Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:03:46 --> URI Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Router Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Output Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Input Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:03:46 --> Language Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:03:46 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:03:46 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:03:46 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:03:46 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:03:46 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:03:46 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:03:46 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:03:46 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:03:46 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Email Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Session Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:03:46 --> Session routines successfully run
+DEBUG - 2010-09-09 23:03:46 --> Table Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Model Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Model Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Model Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:03:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:03:46 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:03:46 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:03:46 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Model Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:03:46 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:03:46 --> Model Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> Model Class Initialized
+DEBUG - 2010-09-09 23:03:46 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:03:46 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:03:46 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:03:46 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:03:46 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:03:46 --> Final output sent to browser
+DEBUG - 2010-09-09 23:03:46 --> Total execution time: 0.0592
+DEBUG - 2010-09-09 23:05:51 --> Config Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:05:51 --> URI Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Router Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Output Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Input Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:05:51 --> Language Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:05:51 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:05:51 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:05:51 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:05:51 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:05:51 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:05:51 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:05:51 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:05:51 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:05:51 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Email Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Session Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:05:51 --> Session routines successfully run
+DEBUG - 2010-09-09 23:05:51 --> Table Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Model Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Model Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Model Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:05:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:05:51 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:05:51 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:05:51 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Model Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:05:51 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:05:51 --> Model Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> Model Class Initialized
+DEBUG - 2010-09-09 23:05:51 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:05:51 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:05:51 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:05:51 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:05:51 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:05:51 --> Final output sent to browser
+DEBUG - 2010-09-09 23:05:51 --> Total execution time: 0.2679
+DEBUG - 2010-09-09 23:06:07 --> Config Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:06:07 --> URI Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Router Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Output Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Input Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:06:07 --> Language Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:06:07 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:06:07 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:06:07 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:06:07 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:06:07 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:06:07 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:06:07 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:06:07 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:06:07 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Email Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Session Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:06:07 --> Session routines successfully run
+DEBUG - 2010-09-09 23:06:07 --> Table Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Model Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Model Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Model Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:06:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:06:07 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:06:07 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:06:07 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Model Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:06:07 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:06:07 --> Model Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> Model Class Initialized
+DEBUG - 2010-09-09 23:06:07 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:06:07 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:06:07 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:06:07 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:06:07 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:06:07 --> Final output sent to browser
+DEBUG - 2010-09-09 23:06:07 --> Total execution time: 0.0833
+DEBUG - 2010-09-09 23:10:37 --> Config Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:10:37 --> URI Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Router Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Output Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Input Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:10:37 --> Language Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:10:37 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:10:37 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:10:37 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:10:37 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:10:37 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:10:37 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:10:37 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:10:37 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:10:37 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Email Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Session Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:10:37 --> Session routines successfully run
+DEBUG - 2010-09-09 23:10:37 --> Table Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Model Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Model Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Model Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:10:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:10:37 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:10:37 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:10:37 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Model Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:10:37 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:10:37 --> Model Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> Model Class Initialized
+DEBUG - 2010-09-09 23:10:37 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:10:37 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:10:37 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:10:37 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:10:37 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:10:37 --> Final output sent to browser
+DEBUG - 2010-09-09 23:10:37 --> Total execution time: 0.1449
+DEBUG - 2010-09-09 23:11:34 --> Config Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:11:34 --> URI Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Router Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Output Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Input Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:11:34 --> Language Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:11:34 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:11:34 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:11:34 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:11:34 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:11:34 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:11:34 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:11:34 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:11:34 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:11:34 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Email Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Session Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:11:34 --> Session routines successfully run
+DEBUG - 2010-09-09 23:11:34 --> Table Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Model Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Model Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Model Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:11:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:11:34 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:11:34 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:11:34 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Model Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:11:34 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:11:34 --> Model Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> Model Class Initialized
+DEBUG - 2010-09-09 23:11:34 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:11:34 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:11:34 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:11:34 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:11:34 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:11:34 --> Final output sent to browser
+DEBUG - 2010-09-09 23:11:34 --> Total execution time: 0.1665
+DEBUG - 2010-09-09 23:13:03 --> Config Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:13:03 --> URI Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Router Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Output Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Input Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:13:03 --> Language Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:13:03 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:13:03 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:13:03 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:13:03 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:13:03 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:13:03 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:13:03 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:13:03 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:13:03 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Email Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Session Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:13:03 --> Session routines successfully run
+DEBUG - 2010-09-09 23:13:03 --> Table Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Model Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Model Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Model Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:13:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:13:03 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:13:03 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:13:03 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Model Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:13:03 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:13:03 --> Model Class Initialized
+DEBUG - 2010-09-09 23:13:03 --> Model Class Initialized
+DEBUG - 2010-09-09 23:13:04 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:13:04 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:13:04 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:13:04 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:13:04 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:13:04 --> Final output sent to browser
+DEBUG - 2010-09-09 23:13:04 --> Total execution time: 0.1741
+DEBUG - 2010-09-09 23:13:06 --> Config Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:13:06 --> URI Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Router Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Output Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Input Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:13:06 --> Language Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:13:06 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:13:06 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:13:06 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:13:06 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:13:06 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:13:06 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:13:06 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:13:06 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:13:06 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Email Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Session Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:13:06 --> Session routines successfully run
+DEBUG - 2010-09-09 23:13:06 --> Table Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Model Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Model Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Model Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:13:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:13:06 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:13:06 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:13:06 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Model Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:13:06 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:13:06 --> Model Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> Model Class Initialized
+DEBUG - 2010-09-09 23:13:06 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:13:06 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:13:06 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:13:06 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:13:06 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:13:06 --> Final output sent to browser
+DEBUG - 2010-09-09 23:13:06 --> Total execution time: 0.0808
+DEBUG - 2010-09-09 23:16:49 --> Config Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:16:49 --> URI Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Router Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Output Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Input Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:16:49 --> Language Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:16:49 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:16:49 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:16:49 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:16:49 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:16:49 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:16:49 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:16:49 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:16:49 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:16:49 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Email Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Session Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:16:49 --> Session routines successfully run
+DEBUG - 2010-09-09 23:16:49 --> Table Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Model Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Model Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Model Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:16:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:16:49 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:16:49 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:16:49 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Model Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:16:49 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:16:49 --> Model Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> Model Class Initialized
+DEBUG - 2010-09-09 23:16:49 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:16:49 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:16:49 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:16:49 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:16:49 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:16:49 --> Final output sent to browser
+DEBUG - 2010-09-09 23:16:49 --> Total execution time: 0.2251
+DEBUG - 2010-09-09 23:17:34 --> Config Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:17:34 --> URI Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Router Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Output Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Input Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:17:34 --> Language Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:17:34 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:17:34 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:17:34 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:17:34 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:17:34 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:17:34 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:17:34 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:17:34 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:17:34 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Email Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Session Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:17:34 --> Session routines successfully run
+DEBUG - 2010-09-09 23:17:34 --> Table Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Model Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Model Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Model Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:17:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:17:34 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:17:34 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:17:34 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:17:34 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:17:34 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:17:34 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:17:34 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/inventory/home.php
+DEBUG - 2010-09-09 23:17:34 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:17:34 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:17:34 --> Final output sent to browser
+DEBUG - 2010-09-09 23:17:34 --> Total execution time: 0.2800
+DEBUG - 2010-09-09 23:23:57 --> Config Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:23:57 --> URI Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Router Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Output Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Input Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:23:57 --> Language Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:23:57 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:23:57 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:23:57 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:23:57 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:23:57 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:23:57 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:23:57 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:23:57 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:23:57 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Email Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Session Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:23:57 --> Session routines successfully run
+DEBUG - 2010-09-09 23:23:57 --> Table Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Model Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Model Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Model Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:23:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:23:57 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:23:57 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:23:57 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Model Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:23:57 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:23:57 --> Model Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> Model Class Initialized
+DEBUG - 2010-09-09 23:23:57 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:23:57 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:23:57 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:23:57 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:23:57 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:23:57 --> Final output sent to browser
+DEBUG - 2010-09-09 23:23:57 --> Total execution time: 0.0782
+DEBUG - 2010-09-09 23:24:12 --> Config Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:24:12 --> URI Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Router Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Output Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Input Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:24:12 --> Language Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:24:12 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:24:12 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:24:12 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:24:12 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:24:12 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:24:12 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:24:12 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:24:12 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:24:12 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Email Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Session Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:24:12 --> Session routines successfully run
+DEBUG - 2010-09-09 23:24:12 --> Table Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Model Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Model Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Model Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:24:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:24:12 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:24:12 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:24:12 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Model Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:24:12 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:24:12 --> Model Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> Model Class Initialized
+DEBUG - 2010-09-09 23:24:12 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:24:12 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:24:13 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:24:13 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:24:13 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:24:13 --> Final output sent to browser
+DEBUG - 2010-09-09 23:24:13 --> Total execution time: 0.1312
+DEBUG - 2010-09-09 23:24:35 --> Config Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:24:35 --> URI Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Router Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Output Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Input Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:24:35 --> Language Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:24:35 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:24:35 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:24:35 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:24:35 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:24:35 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:24:35 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:24:35 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:24:35 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:24:35 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Email Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Session Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:24:35 --> Session routines successfully run
+DEBUG - 2010-09-09 23:24:35 --> Table Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Model Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Model Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Model Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:24:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:24:35 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:24:35 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:24:35 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Model Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:24:35 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:24:35 --> Model Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> Model Class Initialized
+DEBUG - 2010-09-09 23:24:35 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:24:35 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:24:35 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:24:35 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:24:35 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:24:35 --> Final output sent to browser
+DEBUG - 2010-09-09 23:24:35 --> Total execution time: 0.0655
+DEBUG - 2010-09-09 23:28:49 --> Config Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:28:49 --> URI Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Router Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Output Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Input Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:28:49 --> Language Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:28:49 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:28:49 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:28:49 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:28:49 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:28:49 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:28:49 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:28:49 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:28:49 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:28:49 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Email Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Session Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:28:49 --> Session routines successfully run
+DEBUG - 2010-09-09 23:28:49 --> Table Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Model Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Model Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Model Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:28:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:28:49 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:28:49 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:28:49 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Model Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:28:49 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:28:49 --> Model Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> Model Class Initialized
+DEBUG - 2010-09-09 23:28:49 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:28:49 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:28:49 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:28:49 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:28:49 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:28:49 --> Final output sent to browser
+DEBUG - 2010-09-09 23:28:49 --> Total execution time: 0.1216
+DEBUG - 2010-09-09 23:32:35 --> Config Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:32:35 --> URI Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Router Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Output Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Input Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:32:35 --> Language Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:32:35 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:32:35 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:32:35 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:32:35 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:32:35 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:32:35 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:32:35 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:32:35 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:32:35 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Email Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Session Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:32:35 --> Session routines successfully run
+DEBUG - 2010-09-09 23:32:35 --> Table Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Model Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Model Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Model Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:32:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:32:35 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:32:35 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:32:35 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Model Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:32:35 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:32:35 --> Model Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> Model Class Initialized
+DEBUG - 2010-09-09 23:32:35 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:32:35 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:32:35 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:32:35 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:32:35 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:32:35 --> Final output sent to browser
+DEBUG - 2010-09-09 23:32:35 --> Total execution time: 0.2202
+DEBUG - 2010-09-09 23:33:12 --> Config Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:33:12 --> URI Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Router Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Output Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Input Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:33:12 --> Language Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:33:12 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:33:12 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:33:12 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:33:12 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:33:12 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:33:12 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:33:12 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:33:12 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:33:12 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Email Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Session Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:33:12 --> Session routines successfully run
+DEBUG - 2010-09-09 23:33:12 --> Table Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Model Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Model Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Model Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:33:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:33:12 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:33:12 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:33:12 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Model Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:33:12 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:33:12 --> Model Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> Model Class Initialized
+DEBUG - 2010-09-09 23:33:12 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:33:12 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:33:12 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:33:12 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:33:12 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:33:12 --> Final output sent to browser
+DEBUG - 2010-09-09 23:33:12 --> Total execution time: 0.2261
+DEBUG - 2010-09-09 23:34:52 --> Config Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:34:52 --> URI Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Router Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Output Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Input Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:34:52 --> Language Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:34:52 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:34:52 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:34:52 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:34:52 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:34:52 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:34:52 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:34:52 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:34:52 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:34:52 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Email Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Session Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:34:52 --> Session routines successfully run
+DEBUG - 2010-09-09 23:34:52 --> Table Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Model Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Model Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Model Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:34:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:34:52 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:34:52 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:34:52 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Model Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:34:52 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:34:52 --> Model Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> Model Class Initialized
+DEBUG - 2010-09-09 23:34:52 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:34:52 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:34:52 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:34:52 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:34:52 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:34:52 --> Final output sent to browser
+DEBUG - 2010-09-09 23:34:52 --> Total execution time: 0.0959
+DEBUG - 2010-09-09 23:35:10 --> Config Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:35:10 --> URI Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Router Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Output Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Input Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:35:10 --> Language Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:35:10 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:35:10 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:35:10 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:35:10 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:35:10 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:35:10 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:35:10 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:35:10 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:35:10 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Email Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Session Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:35:10 --> Session routines successfully run
+DEBUG - 2010-09-09 23:35:10 --> Table Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Model Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Model Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Model Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:35:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:35:10 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:35:10 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:35:10 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Model Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:35:10 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:35:10 --> Model Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> Model Class Initialized
+DEBUG - 2010-09-09 23:35:10 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:35:10 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:35:10 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:35:10 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:35:10 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:35:10 --> Final output sent to browser
+DEBUG - 2010-09-09 23:35:10 --> Total execution time: 0.2182
+DEBUG - 2010-09-09 23:36:08 --> Config Class Initialized
+DEBUG - 2010-09-09 23:36:14 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:36:14 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:36:14 --> URI Class Initialized
+DEBUG - 2010-09-09 23:36:14 --> Router Class Initialized
+DEBUG - 2010-09-09 23:36:14 --> Output Class Initialized
+DEBUG - 2010-09-09 23:36:14 --> Input Class Initialized
+DEBUG - 2010-09-09 23:36:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:36:14 --> Language Class Initialized
+DEBUG - 2010-09-09 23:36:14 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:36:14 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:36:14 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:36:14 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:36:14 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:36:14 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:36:14 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:36:14 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:36:14 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:36:14 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:36:14 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:36:16 --> Config Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:36:27 --> URI Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Router Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Output Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Input Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:36:27 --> Language Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Email Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Session Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:36:27 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:36:27 --> Session routines successfully run
+DEBUG - 2010-09-09 23:36:27 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:36:27 --> Table Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:36:27 --> Model Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Model Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:36:27 --> Model Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:36:27 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:36:27 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:36:27 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:36:27 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:36:27 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:36:27 --> Email Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:36:27 --> Session Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:36:27 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:36:27 --> Session routines successfully run
+DEBUG - 2010-09-09 23:36:27 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:36:27 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Model Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:36:27 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:36:27 --> Table Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Model Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Model Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Model Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:36:27 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:36:28 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:36:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:36:28 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:36:28 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:36:28 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:36:28 --> Model Class Initialized
+DEBUG - 2010-09-09 23:36:28 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:36:28 --> Model Class Initialized
+DEBUG - 2010-09-09 23:36:28 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:36:28 --> Model Class Initialized
+DEBUG - 2010-09-09 23:36:28 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:36:28 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:36:28 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:36:28 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:36:28 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:36:28 --> Final output sent to browser
+DEBUG - 2010-09-09 23:36:28 --> Total execution time: 19.1088
+DEBUG - 2010-09-09 23:36:28 --> Model Class Initialized
+DEBUG - 2010-09-09 23:36:28 --> Model Class Initialized
+DEBUG - 2010-09-09 23:36:28 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:36:28 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:36:28 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:36:28 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:36:28 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:36:28 --> Final output sent to browser
+DEBUG - 2010-09-09 23:36:28 --> Total execution time: 11.3493
+DEBUG - 2010-09-09 23:37:00 --> Config Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:37:00 --> URI Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Router Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Output Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Input Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:37:00 --> Language Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:37:00 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:37:00 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:37:00 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:37:00 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:37:00 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:37:00 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:37:00 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:37:00 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:37:00 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Email Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Session Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:37:00 --> Session routines successfully run
+DEBUG - 2010-09-09 23:37:00 --> Table Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Model Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Model Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Model Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:37:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:37:00 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:37:00 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:37:00 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Model Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:37:00 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:37:00 --> Model Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> Model Class Initialized
+DEBUG - 2010-09-09 23:37:00 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:37:00 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:37:00 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:37:00 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:37:00 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:37:00 --> Final output sent to browser
+DEBUG - 2010-09-09 23:37:00 --> Total execution time: 0.0816
+DEBUG - 2010-09-09 23:39:23 --> Config Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:39:23 --> URI Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Router Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Output Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Input Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:39:23 --> Language Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:39:23 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:39:23 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:39:23 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:39:23 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:39:23 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:39:23 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:39:23 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:39:23 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:39:23 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Email Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Session Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:39:23 --> Session routines successfully run
+DEBUG - 2010-09-09 23:39:23 --> Table Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Model Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Model Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Model Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:39:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:39:23 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:39:23 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:39:23 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Model Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:39:23 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:39:23 --> Model Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> Model Class Initialized
+DEBUG - 2010-09-09 23:39:23 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:39:23 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:39:23 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:39:23 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:39:23 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:39:23 --> Final output sent to browser
+DEBUG - 2010-09-09 23:39:23 --> Total execution time: 0.0838
+DEBUG - 2010-09-09 23:40:33 --> Config Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Hooks Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Accessing site_offline hook!
+DEBUG - 2010-09-09 23:40:33 --> URI Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Router Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Output Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Input Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2010-09-09 23:40:33 --> Language Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Loader Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Helper loaded: url_helper
+DEBUG - 2010-09-09 23:40:33 --> Helper loaded: file_helper
+DEBUG - 2010-09-09 23:40:33 --> Helper loaded: download_helper
+DEBUG - 2010-09-09 23:40:33 --> Helper loaded: form_helper
+DEBUG - 2010-09-09 23:40:33 --> Helper loaded: html_helper
+DEBUG - 2010-09-09 23:40:33 --> Helper loaded: format_phone_number_helper
+DEBUG - 2010-09-09 23:40:33 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2010-09-09 23:40:33 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2010-09-09 23:40:33 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2010-09-09 23:40:33 --> Database Driver Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Email Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Session Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Helper loaded: string_helper
+DEBUG - 2010-09-09 23:40:33 --> Session routines successfully run
+DEBUG - 2010-09-09 23:40:33 --> Table Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Model Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Model Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Model Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Controller Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Form Validation Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> DX Auth Initialized
+DEBUG - 2010-09-09 23:40:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2010-09-09 23:40:33 --> Config file loaded: config/dx_auth.php
+DEBUG - 2010-09-09 23:40:33 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2010-09-09 23:40:33 --> Pagination Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Model Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Helper loaded: list_builder_helper
+DEBUG - 2010-09-09 23:40:33 --> Helper loaded: array_helper
+DEBUG - 2010-09-09 23:40:33 --> Model Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> Model Class Initialized
+DEBUG - 2010-09-09 23:40:33 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/header.php
+DEBUG - 2010-09-09 23:40:33 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/navbar.php
+DEBUG - 2010-09-09 23:40:33 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/order/order_form.php
+DEBUG - 2010-09-09 23:40:33 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template/footer.php
+DEBUG - 2010-09-09 23:40:33 --> File loaded: /Users/doughesseltine/Dropbox/Real Optics Inc/PILOT/system/../application/views/template.php
+DEBUG - 2010-09-09 23:40:33 --> Final output sent to browser
+DEBUG - 2010-09-09 23:40:33 --> Total execution time: 0.1779

@@ -203,4 +203,47 @@ class CI_DB_oci8_result extends CI_DB_result {
 
 	/**
 	 * Query result.  "array" version.
-	 
+	 *
+	 * @access  public
+	 * @return  array
+	 */
+	function result_array()
+	{
+		if (count($this->result_array) > 0)
+		{
+			return $this->result_array;
+		}
+
+		// oracle's fetch functions do not return arrays.
+		// The information is returned in reference parameters
+		$row = NULL;
+		while ($this->_fetch_assoc($row))
+		{
+			$this->result_array[] = $row;
+		}
+
+		return $this->result_array;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Data Seek
+	 *
+	 * Moves the internal pointer to the desired offset.  We call
+	 * this internally before fetching results to make sure the
+	 * result set starts at zero
+	 *
+	 * @access	private
+	 * @return	array
+	 */
+	function _data_seek($n = 0)
+	{
+		return FALSE; // Not needed
+	}
+
+}
+
+
+/* End of file oci8_result.php */
+/* Location: ./system/database/drivers/oci8/oci8_result.php */

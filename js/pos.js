@@ -154,4 +154,289 @@ function getFrameNameByDivisionId(val)
 	  type: "POST",
       data: ({id : val}),
 	  success: function(data) {
-		var div=dat
+		var div=data.split('^^^');		
+		$("#"+div_id).html("<option value=''> - - - </option>");
+		for(var i=0; i<div.length; i++) 
+		{
+			if(div[i]!="")
+			{
+				div_info = div[i].split('|||');
+				$("#"+div_id).append("<option value='" + div_info[0] + "'>" + div_info[1] + "</option>");
+			}
+		}  
+		document.body.style.opacity='1';
+		document.body.style.cursor = 'auto';
+	  }
+	});
+}
+
+function getPrice(val)
+{
+	$.ajax({
+	  url: $sitePath+'ajaxframe/frame_price',
+	  type: "POST",
+      data: ({id : val}),
+	  success: function(data) {
+		var div=data.split('^^^');
+		$("#frames_field").val(div[0]);
+		// $("#retail_frames_field").val(div[1]);
+	  }
+	});
+}
+
+function getLensCoatingPrice()
+{
+	val	=	$('select[name=lens_coating]').val();
+	$.ajax({
+	  url: $sitePath+'ajaxframe/coating_price',
+	  type: "POST",
+      data: ({id : val}),
+	  success: function(data) {
+		var div=data.split('^^^');
+		$("#lens_coating_field").val(div[0]);
+		// $("#retail_lens_coating_field").val(div[1]);
+	  }
+	});
+}
+
+function LensPrice()
+{
+	lens_design_id	=	$('select[name=lens_design]').val();
+	lens_material	=	$('select[name=lens_material]').val();
+	$.ajax({
+	  url: $sitePath+'ajaxframe/lens_price',
+	  type: "POST",
+      data: ({lens_design_id : lens_design_id, lens_material_id : lens_material}),
+	  success: function(data) {
+		var div=data.split("^^^");
+		$("#lenses_field").val(div[0]);
+		// $("#retail_lenses_field").val(div[1]);
+	  }
+	});
+}
+
+
+function getTreatmentPrice(val)
+{
+	$.ajax({
+	  url: $sitePath+'ajaxframe/treatment_price',
+	  type: "POST",
+      data: ({id : val}),
+	  success: function(data) {
+		var div=data.split('^^^');
+		$("#lens_treatments_field").val(div[0]);
+		// $("#retail_lens_treatments_field").val(div[1]);
+	  }
+	});
+}
+
+
+function add_treatment_price(val,text)
+{
+	/*$.ajax({
+	  url: $sitePath+'ajaxframe/get_treatment_price',
+	  type: "POST",
+      data: ({id : val}),
+	  success: function(data) {
+		$("#show_treatment").show();
+		var str ="<div style='padding:2px 0px 0px 0px;' id='treat_id_"+val+"' ><label for='treat_price' style='padding-left:15px;width:85px;'>"+text+"</label><input type='text' name='treat_price[]' id='treat_price' value='"+data+"' style='background:#FFD3E0'  disabled /></div>";
+		$("#all_selected_treatment").append(str);
+	  }
+	});*/
+}
+
+function getFrameColorByName()
+{
+	$frame_id	=	$('select[name=frame_name]').val();
+	$.ajax(
+		{
+				type:'post',
+				data:{"frame_id":$frame_id},
+				url:$sitePath+"order/getFrameColorByName",
+				async: true,
+				dataType:"json",
+				jsonp:false,
+				success:function(response)
+				{
+					
+					makeSelectWithJson($('select[name=frame_color]'),response);
+				}
+			});	
+}
+
+function getLensDesignByTypeId()
+{
+	$lens_type_id	=	$('select[name=lens_type]').val();
+	$.ajax(
+		{
+				type:'post',
+				data:{"lens_type_id":$lens_type_id},
+				url:$sitePath+"order/getLensDesignByTypeId",
+				async: true,
+				dataType:"json",
+				success:function(response)
+				{
+					makeSelectWithJson($('select[name=lens_design]'),response);
+				}
+			});	
+}
+
+function getLensMaterialByDesignId()
+{
+	$lens_type_id	=	$('select[name=lens_design]').val();
+	$.ajax(
+		{
+				type:'post',
+				data:{"lens_type_id":$lens_type_id},
+				url:$sitePath+"order/getLensMaterialByDesignId",
+				async: true,
+				dataType:"json",
+				success:function(response)
+				{
+					makeSelectWithJson($('select[name=lens_material]'),response);
+				}
+			});	
+}
+
+
+function getLensPrice()
+{
+	$lens_type_id	=	$('select[name=lens_type]').val();
+	$lens_design_id	=	$('select[name=lens_design]').val();
+	if($lens_type_id==''||$lens_type_id=='0'||$lens_design_id==''||$lens_design_id=='0')
+	{
+		makeSelectWithJson($('select[name=lens_design]'),[]);
+	}
+	$.ajax({	type:'post',
+				data:{"lens_type_id":$lens_type_id},
+				url:$sitePath+"order/getLensDesignByTypeId",
+				async: true,
+				dataType:"json",
+				success:function(response)
+				{
+					makeSelectWithJson($('select[name=lens_design]'),response);
+				}
+	});	
+}
+
+function check_frame()
+{
+	eye_size 	= $("#temple_length").val();
+	bridge_size = $("#bridge_size").val();	
+	color_id    = $("#lens_color").val();
+	frame_id    = $("#frame_name").val();
+	$.ajax({	type:'post',
+				data:{"eye_size":eye_size,"bridge_size":bridge_size,"color_id":color_id,"frame_id":frame_id},
+				url:$sitePath+"ajaxframe/check_frame",
+				success:function(response)
+				{
+					if(response=='0')
+						alert("out of stock");
+					else
+						alert("Avaiable");
+				}
+	});
+}
+
+function selectTreatmentAdd()
+{
+	$('select[name=select_lens_treatment] :selected').each(function(i, selected){ 
+		//$('#selected_lens_treatment[value=6]')
+		var alreadySelected = []; 
+		
+		$('select[id=lens_treatment] options').each(function(i,opt){ 
+		
+		alreadySelected[i] = $(opt).val()
+		});
+
+		if($.inArray($(this).val(),alreadySelected)==-1){
+			$('select[id=lens_treatment]').append($("<option></option>")
+																		 .attr("value",$(this).val())
+																		 .text($(this).text())
+			);
+			add_treatment_price($(this).val(),$(this).text())
+		}
+	});
+	
+	if($('select[name=select_lens_treatment] :selected').val()!=''){
+
+		var treat_div_id = $('select[name=select_lens_treatment] :selected').val();
+		$("#treat_id_"+treat_div_id).remove();		
+		$('select[name=select_lens_treatment] :selected').remove();
+	};
+	
+	/*var str='';
+	var j=0;
+	$('select[id=lens_treatment] options').each(function(i,opt){
+		if($(opt).val()!='')
+		{
+			if(j==0)
+				str = $(opt).val();
+			else
+				str = str+','+$(opt).val();
+			j++;
+		}
+	});
+	if(str!='')
+	{
+		//getTreatmentPrice(str);
+	}*/
+}
+function selectTreatmentRemove()
+{
+	if($('select[id=lens_treatment] :selected').val()!=''){
+
+		var treat_div_id = $('select[id=lens_treatment] :selected').val();
+		var treat_div_text = $('select[id=lens_treatment] :selected').text();
+		$("#select_lens_treatment").append( $('<option></option>').val(treat_div_id).html(treat_div_text));
+		$("#treat_id_"+treat_div_id).remove();
+		
+		$('select[id=lens_treatment] :selected').remove();
+		
+		
+
+	};
+	
+/*	var str='';
+	var j=0;
+	$('select[id=lens_treatment] options').each(function(i,opt){
+		if($(opt).val()!='')
+		{
+			if(j==0)
+				str = $(opt).val();
+			else
+				str = str+','+$(opt).val();
+			j++;
+		}
+	});
+	if(j==0)
+	{
+		$("#show_treatment").hide();
+	}*/
+	//getTreatmentPrice(str);
+}
+function makeSelectWithJson(selectElement,newOptions)//first is the element and seccond is arrays 
+{
+var options = selectElement.attr('options');
+$('option', selectElement).remove();
+
+options[0] = new Option("- - -", "");
+
+$.each(newOptions, function(val, text) {
+    options[options.length] = new Option(text, val);
+});
+
+}
+
+
+function dispencer_name(dispencer_id)
+{
+	$.ajax({
+	  url: $sitePath+'ajaxframe/dispencer_name',
+	  type: "POST",
+      data: ({id : dispencer_id}),
+	  success: function(data) {
+		$("#dispencer_name").html(data);
+	  }
+	});
+}

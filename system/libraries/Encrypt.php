@@ -379,4 +379,106 @@ class CI_Encrypt {
 	 */
 	function set_mode($mode)
 	{
-		$this->_mcrypt_mod
+		$this->_mcrypt_mode = $mode;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get Mcrypt cipher Value
+	 *
+	 * @access	private
+	 * @return	string
+	 */
+	function _get_cipher()
+	{
+		if ($this->_mcrypt_cipher == '')
+		{
+			$this->_mcrypt_cipher = MCRYPT_RIJNDAEL_256;
+		}
+
+		return $this->_mcrypt_cipher;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Get Mcrypt Mode Value
+	 *
+	 * @access	private
+	 * @return	string
+	 */
+	function _get_mode()
+	{
+		if ($this->_mcrypt_mode == '')
+		{
+			$this->_mcrypt_mode = MCRYPT_MODE_ECB;
+		}
+		
+		return $this->_mcrypt_mode;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Set the Hash type
+	 *
+	 * @access	public
+	 * @param	string
+	 * @return	string
+	 */
+	function set_hash($type = 'sha1')
+	{
+		$this->_hash_type = ($type != 'sha1' AND $type != 'md5') ? 'sha1' : $type;
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Hash encode a string
+	 *
+	 * @access	public
+	 * @param	string
+	 * @return	string
+	 */	
+	function hash($str)
+	{
+		return ($this->_hash_type == 'sha1') ? $this->sha1($str) : md5($str);
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Generate an SHA1 Hash
+	 *
+	 * @access	public
+	 * @param	string
+	 * @return	string
+	 */
+	function sha1($str)
+	{
+		if ( ! function_exists('sha1'))
+		{
+			if ( ! function_exists('mhash'))
+			{
+				require_once(BASEPATH.'libraries/Sha1'.EXT);
+				$SH = new CI_SHA;
+				return $SH->generate($str);
+			}
+			else
+			{
+				return bin2hex(mhash(MHASH_SHA1, $str));
+			}
+		}
+		else
+		{
+			return sha1($str);
+		}
+	}
+
+}
+
+// END CI_Encrypt class
+
+/* End of file Encrypt.php */
+/* Location: ./system/libraries/Encrypt.php */

@@ -59,4 +59,30 @@ DEBUG - 2011-04-03 15:42:15 --> Helper loaded: download_helper
 DEBUG - 2011-04-03 15:42:15 --> Helper loaded: form_helper
 DEBUG - 2011-04-03 15:42:15 --> Helper loaded: html_helper
 DEBUG - 2011-04-03 15:42:15 --> Helper loaded: format_phone_number_helper
-DEBUG - 2011
+DEBUG - 2011-04-03 15:42:15 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-04-03 15:42:15 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-04-03 15:42:15 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-04-03 15:42:15 --> Database Driver Class Initialized
+DEBUG - 2011-04-03 15:42:16 --> Email Class Initialized
+DEBUG - 2011-04-03 15:42:16 --> Session Class Initialized
+DEBUG - 2011-04-03 15:42:16 --> Helper loaded: string_helper
+DEBUG - 2011-04-03 15:42:16 --> A session cookie was not found.
+DEBUG - 2011-04-03 15:42:16 --> Session routines successfully run
+DEBUG - 2011-04-03 15:42:16 --> Table Class Initialized
+DEBUG - 2011-04-03 15:42:16 --> Model Class Initialized
+DEBUG - 2011-04-03 15:42:16 --> Model Class Initialized
+DEBUG - 2011-04-03 15:42:16 --> Model Class Initialized
+DEBUG - 2011-04-03 15:42:16 --> Controller Class Initialized
+DEBUG - 2011-04-03 15:42:16 --> Form Validation Class Initialized
+DEBUG - 2011-04-03 15:42:16 --> DX Auth Initialized
+DEBUG - 2011-04-03 15:42:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-04-03 15:42:16 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-04-03 15:42:16 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-04-03 15:42:16 --> Model Class Initialized
+DEBUG - 2011-04-03 15:42:16 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-04-03 15:42:16 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-04-03 15:42:16 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/auth/login_form.php
+DEBUG - 2011-04-03 15:42:16 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-04-03 15:42:16 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-04-03 15:42:16 --> Final output sent to browser
+DEBUG - 2011-04-03 15:42:16 --> Total execution time: 0.2990

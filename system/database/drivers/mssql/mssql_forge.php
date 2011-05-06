@@ -178,4 +178,71 @@ class CI_DB_mssql_forge extends CI_DB_forge {
 	 * Generates a platform-specific query so that a table can be altered
 	 * Called by add_column(), drop_column(), and column_alter(),
 	 *
-	 * @access	pri
+	 * @access	private
+	 * @param	string	the ALTER type (ADD, DROP, CHANGE)
+	 * @param	string	the column name
+	 * @param	string	the table name
+	 * @param	string	the column definition
+	 * @param	string	the default value
+	 * @param	boolean	should 'NOT NULL' be added
+	 * @param	string	the field after which we should add the new field
+	 * @return	object
+	 */
+	function _alter_table($alter_type, $table, $column_name, $column_definition = '', $default_value = '', $null = '', $after_field = '')
+	{
+		$sql = 'ALTER TABLE '.$this->db->_protect_identifiers($table)." $alter_type ".$this->db->_protect_identifiers($column_name);
+
+		// DROP has everything it needs now.
+		if ($alter_type == 'DROP')
+		{
+			return $sql;
+		}
+
+		$sql .= " $column_definition";
+
+		if ($default_value != '')
+		{
+			$sql .= " DEFAULT \"$default_value\"";
+		}
+
+		if ($null === NULL)
+		{
+			$sql .= ' NULL';
+		}
+		else
+		{
+			$sql .= ' NOT NULL';
+		}
+
+		if ($after_field != '')
+		{
+			$sql .= ' AFTER ' . $this->db->_protect_identifiers($after_field);
+		}
+		
+		return $sql;
+		
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Rename a table
+	 *
+	 * Generates a platform-specific query so that a table can be renamed
+	 *
+	 * @access	private
+	 * @param	string	the old table name
+	 * @param	string	the new table name
+	 * @return	string
+	 */
+	function _rename_table($table_name, $new_table_name)
+	{
+		// I think this syntax will work, but can find little documentation on renaming tables in MSSQL
+		$sql = 'ALTER TABLE '.$this->db->_protect_identifiers($table_name)." RENAME TO ".$this->db->_protect_identifiers($new_table_name);
+		return $sql;
+	}
+
+}
+
+/* End of file mssql_forge.php */
+/* Location: ./system/database/drivers/mssql/mssql_forge.php */

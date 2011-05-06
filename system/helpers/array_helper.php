@@ -55,4 +55,24 @@ if ( ! function_exists('element'))
 // ------------------------------------------------------------------------
 
 /**
- * Random Element - Takes an array as input and return
+ * Random Element - Takes an array as input and returns a random element
+ *
+ * @access	public
+ * @param	array
+ * @return	mixed	depends on what the array contains
+ */	
+if ( ! function_exists('random_element'))
+{
+	function random_element($array)
+	{
+		if ( ! is_array($array))
+		{
+			return $array;
+		}
+		return $array[array_rand($array)];
+	}	
+}
+
+
+/* End of file array_helper.php */
+/* Location: ./system/helpers/array_helper.php */

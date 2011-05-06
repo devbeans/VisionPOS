@@ -67,4 +67,108 @@ DEBUG - 2011-03-27 10:04:53 --> Helper loaded: format_phone_number_helper
 DEBUG - 2011-03-27 10:04:53 --> Helper loaded: format_phone_number_helper
 DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/default_lang.php
 DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/default_lang.php
-DEBUG - 2011
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-27 10:04:53 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-27 10:04:53 --> Helper loaded: format_phone_number_helper
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/default_lang.php
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/company_lang.php
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/pages_lang.php
+DEBUG - 2011-03-27 10:04:53 --> Database Driver Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Database Driver Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Database Driver Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Database Driver Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Email Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Email Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Session Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Email Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Session Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Session Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Email Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Session Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Helper loaded: string_helper
+DEBUG - 2011-03-27 10:04:53 --> A session cookie was not found.
+DEBUG - 2011-03-27 10:04:53 --> Session routines successfully run
+DEBUG - 2011-03-27 10:04:53 --> Helper loaded: string_helper
+DEBUG - 2011-03-27 10:04:53 --> A session cookie was not found.
+DEBUG - 2011-03-27 10:04:53 --> Session routines successfully run
+DEBUG - 2011-03-27 10:04:53 --> Helper loaded: string_helper
+DEBUG - 2011-03-27 10:04:53 --> A session cookie was not found.
+DEBUG - 2011-03-27 10:04:53 --> Session routines successfully run
+DEBUG - 2011-03-27 10:04:53 --> Table Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Helper loaded: string_helper
+DEBUG - 2011-03-27 10:04:53 --> Table Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Table Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> A session cookie was not found.
+DEBUG - 2011-03-27 10:04:53 --> Session routines successfully run
+DEBUG - 2011-03-27 10:04:53 --> Table Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Controller Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Controller Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Controller Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Controller Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Form Validation Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Form Validation Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Form Validation Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Form Validation Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> DX Auth Initialized
+DEBUG - 2011-03-27 10:04:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-27 10:04:53 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-27 10:04:53 --> DX Auth Initialized
+DEBUG - 2011-03-27 10:04:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-27 10:04:53 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-27 10:04:53 --> DX Auth Initialized
+DEBUG - 2011-03-27 10:04:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-27 10:04:53 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-27 10:04:53 --> DX Auth Initialized
+DEBUG - 2011-03-27 10:04:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2011-03-27 10:04:53 --> Config file loaded: config/dx_auth.php
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-27 10:04:53 --> Language file loaded: language/english/dx_auth_lang.php
+DEBUG - 2011-03-27 10:04:53 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-27 10:04:53 --> Pagination Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Table class already loaded. Second attempt ignored.
+DEBUG - 2011-03-27 10:04:53 --> Pagination Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Pagination Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> Model Class Initialized
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/header.php
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/navbar.php
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/auth/login_form.php
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/auth/login_form.php
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/auth/login_form.php
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-03-27 10:04:53 --> Final output sent to browser
+DEBUG - 2011-03-27 10:04:53 --> Total execution time: 0.4221
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-03-27 10:04:53 --> Final output sent to browser
+DEBUG - 2011-03-27 10:04:53 --> Total execution time: 0.4272
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template/footer.php
+DEBUG - 2011-03-27 10:04:53 --> File loaded: /home/wwwgowhg/public_html/sandbox/system/../application/views/template.php
+DEBUG - 2011-03-27 10:04:53 --> Final output sent to browser
+DEBUG - 2011-03-27 10:04:53 --> Total execution time: 0.4296

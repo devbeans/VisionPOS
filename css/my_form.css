@@ -14,7 +14,7 @@
 	
 	.order_box .info_box{font-size:1.2em;padding:10px 10px 20px 10px;background:#dcdcdc;border-top:1px solid #ccc;border-bottom:1px solid #ccc}
 	
-		.order_box .info_box label{padding:0px 10px 2px 0px; text-align:left; font-weight:bold}
+		/*.order_box .info_box label{padding:0px 10px 2px 0px; text-align:left; font-weight:bold}*/
 		.order_box .info_box  .order_nav li p label{display:block;width:100px;text-align:left}
 	
 	#contact_box,#lenses_box,#invoice_box {background:#FFD3E0}
@@ -51,7 +51,7 @@
 		#patient_box .order_nav li p:nth-child(2) {width:470px;}
 		
 	#lenses_box	{}
-		#lenses_box  input{width:60px;}
+		/*#lenses_box  input{width:60px;}*/
 		#lenses_box .left_right_lenses{text-align:left;}
 			#lenses_box .left_right_lenses  div span{float:left;}
 				
@@ -75,4 +75,67 @@
 			#lenses_box  .add_distance_lenses .add_lenses_elem {float:left;display:block;padding:0px; width:260px;}
 				#lenses_box  .add_distance_lenses .add_lenses_elem li{float:left;}
 					#lenses_box  .add_distance_lenses .add_lenses_elem li ul li{clear:both;padding:0px 5px;}
-					#dist_i
+					#dist_image_lenses, #near_image_lenses, #height_image_lenses {display:block;width:77px;height:50px;}
+					#dist_image_lenses     {background:url("../images/lenses_schema.jpg");}
+					#near_image_lenses     {background:url("../images/lenses_schema.jpg") repeat scroll -81px 0 transparent;}
+					#height_image_lenses {background:url("../images/lenses_schema.jpg") repeat scroll -163px 0 transparent;}
+	
+		#lenses_box .details_lens {font-size:10px;}	
+			#lenses_box .details_lens ul li{float:left;padding:10px 5px 10px 0px; }	
+			#lenses_box .details_lens label {font-size:0.8em;}
+			#lenses_box .details_lens ul li:nth-child(5) {width:356px;}
+				#lenses_box .details_lens ul li:nth-child(5) span {float:left;padding:5px 5px 0px 0px;}
+			#lenses_box .details_lens .last_elem_lens{padding:11px 0px 0px 10px;}	
+				#lenses_box .details_lens .last_elem_lens span:nth-child(2){padding:0px 35px 0px 0px;}	
+			
+		#lenses_box .specific_lenses	{font-size:10px; background:#dedede;}
+			#lenses_box .specific_lenses	input{/*width:100px;float:right*/}
+			#lenses_box .specific_lenses	li {padding:5px 0px;}
+			#lenses_box .specific_lenses	li span{text-align:left;display:block;overflow:hidden;width:190px;float:left;padding-right:10px;}
+			#lenses_box .specific_lenses	li span:first-child {width:210px;}
+				#lenses_box .specific_lenses	li span:first-child input[type='text'] {width:121px;margin-right:7px;}
+				#lenses_box .specific_lenses	li span:first-child select {margin-left:10px;}
+				#lenses_box .specific_lenses	li span:first-child label {width:60px;}
+			#lenses_box .specific_lenses	li span:nth-child(4){padding-right:0px;width:140px;}
+				#lenses_box .specific_lenses	li span:nth-child(4) select {float:right}
+				#lenses_box .specific_lenses	li span label{width:70px;display:block;float:left;font-size:0.9em;padding-top:5px;}
+			
+		
+		#ab_box_lenses{}
+			#lenses_box  #ab_box_lenses .add_lenses_elem {width:195px;}
+			#b_box_image_lenses, #a_box_image_lenses, #dbl_image_lenses, #ed_image_lenses{display:block;width:79px;height:50px;}
+					#a_box_image_lenses     {background:url(../images/lenses_schema.jpg) -245px 0px;}
+					#b_box_image_lenses     {background:url("../images/lenses_schema.jpg") repeat scroll -331px 0 transparent;}
+					#dbl_image_lenses {background:url("../images/lenses_schema.jpg") repeat scroll -420px 0 transparent;}
+					#ed_image_lenses {background:url("../images/lenses_schema.jpg") repeat scroll -580px 0 transparent;}
+					
+		#treatment_box{text-align:left;}
+		    #treatment_box li {padding:0px 0px 10px 0px;}
+			#treatment_box textarea {border:1px solid #BEBEBE;background:#fff;}
+			#treatment_box select {font:76%/1.5 "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Helvetica,Arial,sans-serif;}
+			#treatment_box input{width:380px;}
+			#treatment_box label{display:block;}
+		
+		#invoice_box {text-align:left;padding-bottom:0px;}
+			#invoice_box  ul:nth-child(2){padding-left:0px;width:270px;}
+			#invoice_box  ul:nth-child(3){padding-left:0px;width:180px;}
+			#invoice_box  ul{float:left;width:320px;}
+			#invoice_box  li {padding:5px 0px;}
+			#invoice_box  label{display:block;width:100px;float:left;}
+			#invoice_box select {width:152px;}
+		
+		#total_invoice{font-size:1.2em;}
+			#total_invoice p{padding:5px 10px;}
+			#total_invoice p:first-child {text-align:right;border-top:2px solid #000}
+			#total_invoice p:nth-child(2){text-align:left}
+	
+.base_view{float:left; width:300px; }
+.prism_view{float:left; width:380px; text-align:center;}
+.hr_invoice{ 
+	height:5px;
+    background:#000000;
+	width:280px;
+	float:left;
+	text-align:left;
+	margin-bottom:20px;
+}

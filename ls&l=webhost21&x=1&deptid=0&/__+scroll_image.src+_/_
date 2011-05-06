@@ -1,0 +1,342 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Web Host Galaxy - Price Right, Reliable Business, Personal, Family Web Hosting - php, MySQL - Linux &amp; Windows Hosting</title>
+<!-- TemplateEndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="webhostgalaxy.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div align="center">
+  <table width="800" height="262">
+    <tr> 
+      <td width="100%" height="105"> <table width="795" height="98">
+          <tr> 
+            <td width="32%" height="55"><a href="http://webhostgalaxy.com"><img src="/images/whglogo.jpg" alt="Web Host Galaxy Business Logo" width="252" height="53" border="0"></a></td>
+            <td width="44%" rowspan="2" align="center" valign="top"> <table width="332" height="70">
+                <tr> 
+                  <td width="56" align="right" valign="top" class="Title-Header"><div align="center"><br>
+                      Client Log-In</div></td>
+                  <td width="257" height="50" valign="top"> <form method="post" action="https://www.webhostgalaxy.com/client/login.php?goto=clientarea">
+                      <div align="center"> 
+                        <p align="center"><span class="fineprint">Email Address: 
+                          </span> 
+                          <input type="text" name="username" size="16">
+                          <span class="fineprint">&nbsp;&nbsp;&nbsp;&nbsp; <br>
+                          </span> <span class="fineprint">Password:</span>&nbsp; 
+                          <input type="password" name="password" size="16">
+                          <br>
+                          <input name="submit" type="submit" value="Login">
+                        </p>
+                      </div>
+                    </form></td>
+                </tr>
+              </table></td>
+            <td rowspan="2" align="center" valign="middle">&nbsp;</td>
+            <td width="22%" rowspan="2" valign="top"> <table width="139" height="98">
+                <tr> 
+                  <td height="30"> 
+                    <div align="center">&nbsp; 
+                      <!-- BEGIN PHP Live! code, (c) OSI Codes Inc. -->
+                      <script language="JavaScript" src="https://www.webhostgalaxy.com/ls/js/status_image.php?base_url=https://www.webhostgalaxy.com/ls&l=webhost21&x=1&deptid=0&"></script>
+                      <!-- END PHP Live! code : (c) OSI Codes Inc. -->
+                    </div></td>
+                </tr>
+                <tr> 
+                  <td height="20" class="fineprint"><div align="center">&nbsp;&nbsp;&nbsp; 
+                      Today is 
+                      April 18, 2011                    </div></td>
+                </tr>
+                <tr> 
+                  <td height="30" class="fineprint"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                    Best View With <a href="http://www.mozilla.com" target="_blank" class="fineprint">FireFox</a></td>
+                </tr>
+              </table></td>
+          </tr>
+          <tr> 
+            <td height="30" align="center" valign="top"> 
+              <div align="center"><img src="images/credit_cards.gif" width="168" height="32"></div></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr> 
+      <td height="21"> <div id="PLHFO0Div" style="width:795px;height:26px;position:relative;z-index:50;"> 
+          <div style="width:795px;height:26px;text-align:left;"> 
+            <ul style="margin:0;padding:2px;width:765px;height:22px;font-family:Geneva,Arial,Helvetica,sans-serif;font-size:12px;">
+              <li class="PLHFOLink" style="display:block;float:left;width:148px;height:20px;text-align:center;border:solid 1px #ffffff;background:#2946a9 url(Pluginlab/dd_arrow_w.gif) no-repeat 137px 50%;"><a href="#" style="display:block;padding:3px 17px 0px 6px;text-decoration:none;color:#ffffff;">Products&nbsp;/&nbsp;Services</a></li>
+              <li class="PLHFOLink" style="display:block;float:left;width:114px;height:20px;margin-left:4px;text-align:center;border:solid 1px #ffffff;background:#2946a9 url(Pluginlab/dd_arrow_w.gif) no-repeat 103px 50%;"><a href="#" style="display:block;padding:3px 17px 0px 6px;text-decoration:none;color:#ffffff;">Support</a></li>
+              <li class="PLHFOLink" style="display:block;float:left;width:114px;height:20px;margin-left:4px;text-align:center;border:solid 1px #ffffff;background-color:#2946a9;"><a href="mirrors/eckelbooks/index.php" target="_blank" style="display:block;padding:3px 6px 0px 6px;text-decoration:none;color:#ffffff;">Downloads&nbsp;</a></li>
+              <li class="PLHFOLink" style="display:block;float:left;width:114px;height:20px;margin-left:4px;text-align:center;border:solid 1px #ffffff;background:#2946a9 url(Pluginlab/dd_arrow_w.gif) no-repeat 103px 50%;"><a href="#" style="display:block;padding:3px 17px 0px 6px;text-decoration:none;color:#ffffff;">Tutorials</a></li>
+              <li class="PLHFOLink" style="display:block;float:left;width:114px;height:20px;margin-left:4px;text-align:center;border:solid 1px #ffffff;background:#2946a9 url(Pluginlab/dd_arrow_w.gif) no-repeat 103px 50%;"><a href="#" style="display:block;padding:3px 17px 0px 6px;text-decoration:none;color:#ffffff;">Domain's</a></li>
+              <li class="PLHFOLink" style="display:block;float:left;width:129px;height:20px;margin-left:4px;text-align:center;border:solid 1px #ffffff;background:#2946a9 url(Pluginlab/dd_arrow_w.gif) no-repeat 118px 50%;"><a href="#" style="display:block;padding:3px 17px 0px 6px;text-decoration:none;color:#ffffff;">Company&nbsp;Info</a></li>
+            </ul>
+          </div>
+          <script type="text/javascript">var PLHFO_ID="PLHFO0"</script>
+          <script type="text/javascript" src="Pluginlab/Scripts/PLHFO.js">/* PLHFOMenu script ID:PLHFO0 */</script>
+        </div></td>
+    </tr>
+    <tr> 
+      <td height="24" nowrap><table width="800">
+          <tr> 
+            <td nowrap><table width="795">
+                <tr> 
+                  <td width="269" valign="top" nowrap> <table width="247" height="152" id="professional">
+                      <tr> 
+                        <td width="239" align="left" valign="top" nowrap background="images/package3.jpg"><table width="93%" height="144" border="0">
+                            <tr> 
+                              <td width="21%" rowspan="2"> <table width="90%" height="75" border="0">
+                                  <tr> 
+                                    <td height="34" background="images/redarrow.gif">&nbsp; 
+                                    </td>
+                                  </tr>
+                                  <tr> 
+                                    <td height="35" background="images/enterprise-hosting.gif">&nbsp;</td>
+                                  </tr>
+                                </table></td>
+                              <td width="79%" height="16" class="Title-Header">Professional 
+                                Package</td>
+                            </tr>
+                            <tr> 
+                              <td height="93" class="fineprint"><a href="pro-packageinfo.php" class="fineprint">12 
+                                GB of Disk Space<br>
+                                200 GB File Transfer<br>
+                                Unlimted Sub Domains<br>
+                                Unlimted Email Accounts<br>
+                                Unlimted MySQL Data Bases <br>
+                                Email Filtering Service<br>
+                                And Much More </a></td>
+                            </tr>
+                            <tr> 
+                              <td height="21" colspan="2"> <div align="center" class="main-body-text"> 
+                                  <table width="97%" border="0">
+                                    <tr> 
+                                      <td width="40%" class="Red1"><div align="center">$15.00</div></td>
+                                      <td width="47%" class="main-body-text">Only 
+                                        &cent; 0.5 A Day</td>
+                                      <td width="13%" class="fineprint">&nbsp;</td>
+                                    </tr>
+                                  </table>
+                                </div></td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                    </table></td>
+                  <td width="261" valign="top" nowrap><table width="247" height="152" id="basic">
+                      <tr> 
+                        <td width="239" align="left" valign="top" nowrap background="images/package3.jpg"><table width="93%" height="143" border="0">
+                            <tr> 
+                              <td width="21%" rowspan="2"> <table width="115%" height="66" border="0">
+                                  <tr> 
+                                    <td width="70%" height="29" background="images/pilemoney.gif">&nbsp; 
+                                    </td>
+                                    <td width="30%">&nbsp;</td>
+                                  </tr>
+                                  <tr> 
+                                    <td height="31" colspan="2" background="images/business-web-hosting.gif">&nbsp;</td>
+                                  </tr>
+                                </table></td>
+                              <td width="79%" height="21" class="Title-Header">Basic 
+                                Package </td>
+                            </tr>
+                            <tr> 
+                              <td height="93"><a href="basic-packageinfo.php" class="fineprint">4 
+                                GB of Disk Space<br>
+                                100 GB File Transfer<br>
+                                Unlimted Sub Domains<br>
+                                Unlimted Email Accounts<br>
+                                Unlimted MySQL Data Bases <br>
+                                Email Filtering Service<br>
+                                And Much More</a><span class="fineprint"> </span></td>
+                            </tr>
+                            <tr> 
+                              <td height="21" colspan="2"> <div align="center" class="main-body-text"> 
+                                  <table width="97%" border="0">
+                                    <tr> 
+                                      <td width="40%" class="Red1"><div align="center">$7.00</div></td>
+                                      <td width="47%" class="main-body-text">Only 
+                                        &cent; 2.5 A Day</td>
+                                      <td width="13%" class="fineprint">&nbsp;</td>
+                                    </tr>
+                                  </table>
+                                </div></td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                    </table></td>
+                  <td width="249" align="center" nowrap> <img src="images/suport1.gif" alt="Most Common Plateforms Used" width="200" height="99"></td>
+                </tr>
+              </table></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr> 
+      <td height="21"><table width="800">
+          <tr> 
+            <td nowrap><table width="800">
+                <tr> 
+                  <td width="264" nowrap><table width="247" height="152" id="advanced">
+                      <tr> 
+                        <td width="239" align="left" valign="top" nowrap background="images/package3.jpg"><table width="93%" height="143" border="0">
+                            <tr> 
+                              <td width="21%" rowspan="2"> <table width="85%" height="79" border="0">
+                                  <tr> 
+                                    <td height="37" background="images/roundarrowp.gif">&nbsp;</td>
+                                  </tr>
+                                  <tr> 
+                                    <td height="36" background="images/enterprise-hosting.gif">&nbsp;</td>
+                                  </tr>
+                                </table></td>
+                              <td width="79%" height="21" class="Title-Header">Advanced 
+                                Package</td>
+                            </tr>
+                            <tr> 
+                              <td height="93"><a href="advanced-packageinfo.php" class="fineprint">8 
+                                GB of Disk Space<br>
+                                150 GB File Transfer<br>
+                                Unlimted Sub Domains<br>
+                                Unlimted Email Accounts<br>
+                                Unlimted MySQL Data Bases <br>
+                                Email Filtering Service<br>
+                                And Much More </a></td>
+                            </tr>
+                            <tr> 
+                              <td height="21" colspan="2"> <div align="center" class="main-body-text"> 
+                                  <table width="97%" border="0">
+                                    <tr> 
+                                      <td width="40%" class="Red1"><div align="center">$12.00</div></td>
+                                      <td width="47%" class="main-body-text">Only 
+                                        &cent; 0.4 A Day</td>
+                                      <td width="13%" class="fineprint">&nbsp;</td>
+                                    </tr>
+                                  </table>
+                                </div></td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                    </table></td>
+                  <td width="265" nowrap> 
+                    <table width="247" height="152" id="starter">
+                      <tr> 
+                        <td width="239" align="left" valign="top" nowrap background="images/package3.jpg"><table width="93%" height="143" border="0">
+                            <tr> 
+                              <td width="21%" rowspan="2"> <table width="115%" height="66" border="0">
+                                  <tr> 
+                                    <td height="29">&nbsp; </td>
+                                  </tr>
+                                  <tr> 
+                                    <td height="31" background="images/personal-web-hosting.gif">&nbsp;</td>
+                                  </tr>
+                                </table></td>
+                              <td width="79%" height="21" class="Title-Header">Starter 
+                                Package</td>
+                            </tr>
+                            <tr> 
+                              <td height="93"><a href="starter-packageinfo.php" class="fineprint">2 
+                                Gb of Disk Space<br>
+                                50 GB File Transfer<br>
+                                3 Email Accounts<br>
+                                Email Filtering Service<br>
+                                PGP/GPG <br>
+                                Web Mail<br>
+                                And Much More </a></td>
+                            </tr>
+                            <tr> 
+                              <td height="21" colspan="2"> <div align="center" class="main-body-text"> 
+                                  <table width="97%" border="0">
+                                    <tr> 
+                                      <td width="40%" class="Red1"><div align="center">$4.00</div></td>
+                                      <td width="47%" class="main-body-text">Only 
+                                        &cent; 1.3 A Day</td>
+                                      <td width="13%" class="fineprint">&nbsp;</td>
+                                    </tr>
+                                  </table>
+                                </div></td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                    </table></td>
+                  <td width="255" valign="top" nowrap>&nbsp;</td>
+                </tr>
+              </table></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr> 
+      <td><table width="800">
+          <tr> 
+            <td nowrap><table width="800">
+                <tr> 
+                  <td width="244" nowrap><table width="98%" border="0">
+                      <tr> 
+                        <td width="25%"><a href="http://www.webhostgalaxy.com/aboutfantastico.php"><img src="http://www.webhostgalaxy.com/images/fantastico2.gif" width="37" height="37" border="0"></a></td>
+                        <td width="75%"><a href="http://www.webhostgalaxy.com/aboutfantastico.php" class="fineprint">Free 
+                          Fantastico with every account</a></td>
+                      </tr>
+                    </table></td>
+                  <td width="250" align="center" nowrap><img src="images/avas.gif" width="212" height="66"></td>
+                  <td width="124" align="center" nowrap><img src="images/99uptime_sm.jpg" width="78" height="68" border="0" usemap="#Map"></td>
+                  <td width="162" align="center" nowrap><div align="left"><img src="images/60-back.gif" width="103" height="74" border="0" usemap="#moneybackMap"> 
+                      <map name="moneybackMap" id="moneyback2">
+                        <area shape="rect" coords="2,2,101,72" href="/sla.php#30day" alt="60 Day Money Back">
+                      </map>
+                    </div></td>
+                </tr>
+              </table></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr> 
+      <td><!-- Search Google -->
+                                        <center>
+                                          <form method="get" action="http://www.google.com/custom" target="_top">
+                                            <table bgcolor="#ffffff">
+                                              <tr> 
+                                                <td nowrap="nowrap" valign="top" align="left" height="32"> 
+                                                  <a href="http://www.google.com/"> 
+                                                  <img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" align="middle"></a> 
+                                                  <input type="text" name="q" size="31" maxlength="255" value=""> 
+                                                  <input type="submit" name="sa" value="Search"> 
+                                                  <input type="hidden" name="client" value="pub-8520871332152737"> 
+                                                  <input type="hidden" name="forid" value="1"> 
+                                                  <input type="hidden" name="ie" value="ISO-8859-1"> 
+                                                  <input type="hidden" name="oe" value="ISO-8859-1"> 
+                                                  <input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1;"> 
+                                                  <input type="hidden" name="hl" value="en"> 
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </form>
+                                        </center>
+                                        <!-- Search Google --></td>
+    </tr>
+    <tr> 
+      <td><div align="center"> 
+          <div align="center"></div>
+          <div align="center" class="fineprint"><a href="http://www.webhostgalaxy.com" class="fineprint"> 
+            Home</a> :: <a href="http://www.webhostgalaxy.com/privacy.php" class="fineprint">Privacy 
+            Policy</a> :: <a href="http://www.webhostgalaxy.com/tos.php" class="fineprint">terms 
+            of service</a> :: <a href="http://www.webhostgalaxy.com/sla.php" class="fineprint">service 
+            level agreement</a> :: <a href="http://www.webhostgalaxy.com/contact.php" class="fineprint">contact 
+            us</a> :: <a href="https://www.webhostgalaxy.com/client/clientarea.php" class="fineprint">customer 
+            center</a><br>
+            <a href="/tutorials/index.php" class="fineprint">Tutorials</a> :: 
+            <a href="http://www.webhostgalaxy.com/uptime-guarantee.php" class="fineprint">uptime 
+            guarantee</a> :: <a href="https://www.webhostgalaxy.com/client/cart.php?a=add&domain=register" class="fineprint">order 
+            domain names</a> :: web design shop<br>
+            Copyright &copy; 2001 - 2011 Web Host Galaxy.com, member of D&amp;T 
+            Sales. All rights reserved.</div>
+        </div></td>
+    </tr>
+  </table>
+</div>
+<map name="Map">
+  <area shape="rect" coords="1,4,77,67" href="uptime-guarantee.php" alt="99.9%  Uptime Guarantee">
+</map>
+<map name="moneyback" id="moneyback">
+  <area shape="rect" coords="2,2,101,72" href="/sla.php#30day" alt="30 Day Money Back">
+</map>
+</body>
+</html>

@@ -115,4 +115,27 @@
 																		   template = template.replace(/__COST__/g, $("#cost_price").val());
 																
 																$("#tbl-materials tbody").append(template);
-																$(".tooltip").tipsy({
+																$(".tooltip").tipsy({gravity: 's'});
+																
+																
+																		
+																if (!m_add_more)
+																	m_dialog.dialog("destroy");
+																else
+																{
+																	$(':input','#form-lens-material-detail')
+																	 .not(':button, :submit, :reset, :hidden')
+																	 .val('')
+																	 .removeAttr('checked')
+																	 .removeAttr('selected');
+
+
+																	$('#material').focus();
+																}
+																		   
+															});
+														}
+			}
+			
+			
+	});

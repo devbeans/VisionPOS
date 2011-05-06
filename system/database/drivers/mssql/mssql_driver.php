@@ -642,4 +642,26 @@ class CI_DB_mssql_driver extends CI_DB {
 	{
 		$i = $limit + $offset;
 	
-		return preg_replace('/(^\SELECT (DISTINCT)?)/
+		return preg_replace('/(^\SELECT (DISTINCT)?)/i','\\1 TOP '.$i.' ', $sql);		
+	}
+
+	// --------------------------------------------------------------------
+
+	/**
+	 * Close DB Connection
+	 *
+	 * @access	public
+	 * @param	resource
+	 * @return	void
+	 */
+	function _close($conn_id)
+	{
+		@mssql_close($conn_id);
+	}	
+
+}
+
+
+
+/* End of file mssql_driver.php */
+/* Location: ./system/database/drivers/mssql/mssql_driver.php */
